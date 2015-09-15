@@ -1,0 +1,801 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		97DBB1BF1BA0E35B0089426A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */; };
+		97DBB1C11BA0E35B0089426A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1C01BA0E35B0089426A /* ViewController.swift */; };
+		97DBB1C41BA0E35B0089426A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1C21BA0E35B0089426A /* Main.storyboard */; };
+		97DBB1C61BA0E35B0089426A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1C51BA0E35B0089426A /* Assets.xcassets */; };
+		97DBB1C91BA0E35B0089426A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1C71BA0E35B0089426A /* LaunchScreen.storyboard */; };
+		97DBB1D41BA0E35B0089426A /* Tudo_On_LineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1D31BA0E35B0089426A /* Tudo_On_LineTests.swift */; };
+		97DBB1DF1BA0E35B0089426A /* Tudo_On_LineUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1DE1BA0E35B0089426A /* Tudo_On_LineUITests.swift */; };
+		97DBB1E41BA0E35B0089426A /* Tudo On Line WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 97DBB1E31BA0E35B0089426A /* Tudo On Line WatchKit App.app */; };
+		97DBB1EA1BA0E35B0089426A /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1E81BA0E35B0089426A /* Interface.storyboard */; };
+		97DBB1EC1BA0E35C0089426A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1EB1BA0E35C0089426A /* Assets.xcassets */; };
+		97DBB1F31BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 97DBB1F21BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		97DBB1FA1BA0E35C0089426A /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1F91BA0E35C0089426A /* InterfaceController.swift */; };
+		97DBB1FC1BA0E35C0089426A /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1FB1BA0E35C0089426A /* ExtensionDelegate.swift */; };
+		97DBB1FE1BA0E35C0089426A /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1FD1BA0E35C0089426A /* NotificationController.swift */; };
+		97DBB2001BA0E35C0089426A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1FF1BA0E35C0089426A /* Assets.xcassets */; };
+		97DBB2161BA1125C0089426A /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB2151BA1125C0089426A /* CustomView.swift */; };
+		97DBB21A1BA130A80089426A /* DLRadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB2191BA130A80089426A /* DLRadioButton.m */; };
+		97DBB21C1BA136A80089426A /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB21B1BA136A80089426A /* CheckBox.swift */; };
+		97DBB21E1BA137C50089426A /* CheckBoxLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		97DBB1D01BA0E35B0089426A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97DBB1B31BA0E35B0089426A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97DBB1BA1BA0E35B0089426A;
+			remoteInfo = "Tudo On Line";
+		};
+		97DBB1DB1BA0E35B0089426A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97DBB1B31BA0E35B0089426A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97DBB1BA1BA0E35B0089426A;
+			remoteInfo = "Tudo On Line";
+		};
+		97DBB1E51BA0E35B0089426A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97DBB1B31BA0E35B0089426A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97DBB1E21BA0E35B0089426A;
+			remoteInfo = "Tudo On Line WatchKit App";
+		};
+		97DBB1F41BA0E35C0089426A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97DBB1B31BA0E35B0089426A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97DBB1F11BA0E35C0089426A;
+			remoteInfo = "Tudo On Line WatchKit Extension";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		97DBB2071BA0E35C0089426A /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				97DBB1F31BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB20B1BA0E35C0089426A /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				97DBB1E41BA0E35B0089426A /* Tudo On Line WatchKit App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		97DBB1BB1BA0E35B0089426A /* Tudo On Line.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tudo On Line.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		97DBB1C01BA0E35B0089426A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		97DBB1C31BA0E35B0089426A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		97DBB1C51BA0E35B0089426A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97DBB1C81BA0E35B0089426A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		97DBB1CA1BA0E35B0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DBB1CF1BA0E35B0089426A /* Tudo On LineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tudo On LineTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97DBB1D31BA0E35B0089426A /* Tudo_On_LineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tudo_On_LineTests.swift; sourceTree = "<group>"; };
+		97DBB1D51BA0E35B0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DBB1DA1BA0E35B0089426A /* Tudo On LineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tudo On LineUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97DBB1DE1BA0E35B0089426A /* Tudo_On_LineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tudo_On_LineUITests.swift; sourceTree = "<group>"; };
+		97DBB1E01BA0E35B0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DBB1E31BA0E35B0089426A /* Tudo On Line WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tudo On Line WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97DBB1E91BA0E35B0089426A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		97DBB1EB1BA0E35C0089426A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97DBB1ED1BA0E35C0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DBB1F21BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Tudo On Line WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97DBB1F81BA0E35C0089426A /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		97DBB1F91BA0E35C0089426A /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
+		97DBB1FB1BA0E35C0089426A /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
+		97DBB1FD1BA0E35C0089426A /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		97DBB1FF1BA0E35C0089426A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97DBB2011BA0E35C0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DBB2151BA1125C0089426A /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		97DBB2181BA130A80089426A /* DLRadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLRadioButton.h; sourceTree = "<group>"; };
+		97DBB2191BA130A80089426A /* DLRadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLRadioButton.m; sourceTree = "<group>"; };
+		97DBB21B1BA136A80089426A /* CheckBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
+		97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CheckBoxLayer.swift; path = DLRadioButton/CheckBoxLayer.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97DBB1B81BA0E35B0089426A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1CC1BA0E35B0089426A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1D71BA0E35B0089426A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1EF1BA0E35C0089426A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		97DBB1B21BA0E35B0089426A = {
+			isa = PBXGroup;
+			children = (
+				97DBB1BD1BA0E35B0089426A /* Tudo On Line */,
+				97DBB1D21BA0E35B0089426A /* Tudo On LineTests */,
+				97DBB1DD1BA0E35B0089426A /* Tudo On LineUITests */,
+				97DBB1E71BA0E35B0089426A /* Tudo On Line WatchKit App */,
+				97DBB1F61BA0E35C0089426A /* Tudo On Line WatchKit Extension */,
+				97DBB1BC1BA0E35B0089426A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		97DBB1BC1BA0E35B0089426A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1BB1BA0E35B0089426A /* Tudo On Line.app */,
+				97DBB1CF1BA0E35B0089426A /* Tudo On LineTests.xctest */,
+				97DBB1DA1BA0E35B0089426A /* Tudo On LineUITests.xctest */,
+				97DBB1E31BA0E35B0089426A /* Tudo On Line WatchKit App.app */,
+				97DBB1F21BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97DBB1BD1BA0E35B0089426A /* Tudo On Line */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */,
+				97DBB2151BA1125C0089426A /* CustomView.swift */,
+				97DBB1C01BA0E35B0089426A /* ViewController.swift */,
+				97DBB1C21BA0E35B0089426A /* Main.storyboard */,
+				97DBB1C51BA0E35B0089426A /* Assets.xcassets */,
+				97DBB1C71BA0E35B0089426A /* LaunchScreen.storyboard */,
+				97DBB1CA1BA0E35B0089426A /* Info.plist */,
+				97DBB2171BA130A80089426A /* DLRadioButton */,
+				97DBB21B1BA136A80089426A /* CheckBox.swift */,
+				97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */,
+			);
+			path = "Tudo On Line";
+			sourceTree = "<group>";
+		};
+		97DBB1D21BA0E35B0089426A /* Tudo On LineTests */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1D31BA0E35B0089426A /* Tudo_On_LineTests.swift */,
+				97DBB1D51BA0E35B0089426A /* Info.plist */,
+			);
+			path = "Tudo On LineTests";
+			sourceTree = "<group>";
+		};
+		97DBB1DD1BA0E35B0089426A /* Tudo On LineUITests */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1DE1BA0E35B0089426A /* Tudo_On_LineUITests.swift */,
+				97DBB1E01BA0E35B0089426A /* Info.plist */,
+			);
+			path = "Tudo On LineUITests";
+			sourceTree = "<group>";
+		};
+		97DBB1E71BA0E35B0089426A /* Tudo On Line WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1E81BA0E35B0089426A /* Interface.storyboard */,
+				97DBB1EB1BA0E35C0089426A /* Assets.xcassets */,
+				97DBB1ED1BA0E35C0089426A /* Info.plist */,
+			);
+			path = "Tudo On Line WatchKit App";
+			sourceTree = "<group>";
+		};
+		97DBB1F61BA0E35C0089426A /* Tudo On Line WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1F91BA0E35C0089426A /* InterfaceController.swift */,
+				97DBB1FB1BA0E35C0089426A /* ExtensionDelegate.swift */,
+				97DBB1FD1BA0E35C0089426A /* NotificationController.swift */,
+				97DBB1FF1BA0E35C0089426A /* Assets.xcassets */,
+				97DBB2011BA0E35C0089426A /* Info.plist */,
+				97DBB1F71BA0E35C0089426A /* Supporting Files */,
+			);
+			path = "Tudo On Line WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		97DBB1F71BA0E35C0089426A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB1F81BA0E35C0089426A /* PushNotificationPayload.apns */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		97DBB2171BA130A80089426A /* DLRadioButton */ = {
+			isa = PBXGroup;
+			children = (
+				97DBB2181BA130A80089426A /* DLRadioButton.h */,
+				97DBB2191BA130A80089426A /* DLRadioButton.m */,
+			);
+			path = DLRadioButton;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97DBB1BA1BA0E35B0089426A /* Tudo On Line */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97DBB20C1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line" */;
+			buildPhases = (
+				97DBB1B71BA0E35B0089426A /* Sources */,
+				97DBB1B81BA0E35B0089426A /* Frameworks */,
+				97DBB1B91BA0E35B0089426A /* Resources */,
+				97DBB20B1BA0E35C0089426A /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97DBB1E61BA0E35B0089426A /* PBXTargetDependency */,
+			);
+			name = "Tudo On Line";
+			productName = "Tudo On Line";
+			productReference = 97DBB1BB1BA0E35B0089426A /* Tudo On Line.app */;
+			productType = "com.apple.product-type.application";
+		};
+		97DBB1CE1BA0E35B0089426A /* Tudo On LineTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97DBB20F1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineTests" */;
+			buildPhases = (
+				97DBB1CB1BA0E35B0089426A /* Sources */,
+				97DBB1CC1BA0E35B0089426A /* Frameworks */,
+				97DBB1CD1BA0E35B0089426A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97DBB1D11BA0E35B0089426A /* PBXTargetDependency */,
+			);
+			name = "Tudo On LineTests";
+			productName = "Tudo On LineTests";
+			productReference = 97DBB1CF1BA0E35B0089426A /* Tudo On LineTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		97DBB1D91BA0E35B0089426A /* Tudo On LineUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97DBB2121BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineUITests" */;
+			buildPhases = (
+				97DBB1D61BA0E35B0089426A /* Sources */,
+				97DBB1D71BA0E35B0089426A /* Frameworks */,
+				97DBB1D81BA0E35B0089426A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97DBB1DC1BA0E35B0089426A /* PBXTargetDependency */,
+			);
+			name = "Tudo On LineUITests";
+			productName = "Tudo On LineUITests";
+			productReference = 97DBB1DA1BA0E35B0089426A /* Tudo On LineUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		97DBB1E21BA0E35B0089426A /* Tudo On Line WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97DBB2081BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line WatchKit App" */;
+			buildPhases = (
+				97DBB1E11BA0E35B0089426A /* Resources */,
+				97DBB2071BA0E35C0089426A /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97DBB1F51BA0E35C0089426A /* PBXTargetDependency */,
+			);
+			name = "Tudo On Line WatchKit App";
+			productName = "Tudo On Line WatchKit App";
+			productReference = 97DBB1E31BA0E35B0089426A /* Tudo On Line WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		97DBB1F11BA0E35C0089426A /* Tudo On Line WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97DBB2041BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line WatchKit Extension" */;
+			buildPhases = (
+				97DBB1EE1BA0E35C0089426A /* Sources */,
+				97DBB1EF1BA0E35C0089426A /* Frameworks */,
+				97DBB1F01BA0E35C0089426A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tudo On Line WatchKit Extension";
+			productName = "Tudo On Line WatchKit Extension";
+			productReference = 97DBB1F21BA0E35C0089426A /* Tudo On Line WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97DBB1B31BA0E35B0089426A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = com.douglasalexandre;
+				TargetAttributes = {
+					97DBB1BA1BA0E35B0089426A = {
+						CreatedOnToolsVersion = 7.0;
+					};
+					97DBB1CE1BA0E35B0089426A = {
+						CreatedOnToolsVersion = 7.0;
+						TestTargetID = 97DBB1BA1BA0E35B0089426A;
+					};
+					97DBB1D91BA0E35B0089426A = {
+						CreatedOnToolsVersion = 7.0;
+						TestTargetID = 97DBB1BA1BA0E35B0089426A;
+					};
+					97DBB1E21BA0E35B0089426A = {
+						CreatedOnToolsVersion = 7.0;
+					};
+					97DBB1F11BA0E35C0089426A = {
+						CreatedOnToolsVersion = 7.0;
+					};
+				};
+			};
+			buildConfigurationList = 97DBB1B61BA0E35B0089426A /* Build configuration list for PBXProject "Tudo On Line" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 97DBB1B21BA0E35B0089426A;
+			productRefGroup = 97DBB1BC1BA0E35B0089426A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97DBB1BA1BA0E35B0089426A /* Tudo On Line */,
+				97DBB1CE1BA0E35B0089426A /* Tudo On LineTests */,
+				97DBB1D91BA0E35B0089426A /* Tudo On LineUITests */,
+				97DBB1E21BA0E35B0089426A /* Tudo On Line WatchKit App */,
+				97DBB1F11BA0E35C0089426A /* Tudo On Line WatchKit Extension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97DBB1B91BA0E35B0089426A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB1C91BA0E35B0089426A /* LaunchScreen.storyboard in Resources */,
+				97DBB1C61BA0E35B0089426A /* Assets.xcassets in Resources */,
+				97DBB1C41BA0E35B0089426A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1CD1BA0E35B0089426A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1D81BA0E35B0089426A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1E11BA0E35B0089426A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB1EC1BA0E35C0089426A /* Assets.xcassets in Resources */,
+				97DBB1EA1BA0E35B0089426A /* Interface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1F01BA0E35C0089426A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB2001BA0E35C0089426A /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97DBB1B71BA0E35B0089426A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB2161BA1125C0089426A /* CustomView.swift in Sources */,
+				97DBB21A1BA130A80089426A /* DLRadioButton.m in Sources */,
+				97DBB1C11BA0E35B0089426A /* ViewController.swift in Sources */,
+				97DBB1BF1BA0E35B0089426A /* AppDelegate.swift in Sources */,
+				97DBB21E1BA137C50089426A /* CheckBoxLayer.swift in Sources */,
+				97DBB21C1BA136A80089426A /* CheckBox.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1CB1BA0E35B0089426A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB1D41BA0E35B0089426A /* Tudo_On_LineTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1D61BA0E35B0089426A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB1DF1BA0E35B0089426A /* Tudo_On_LineUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97DBB1EE1BA0E35C0089426A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DBB1FE1BA0E35C0089426A /* NotificationController.swift in Sources */,
+				97DBB1FC1BA0E35C0089426A /* ExtensionDelegate.swift in Sources */,
+				97DBB1FA1BA0E35C0089426A /* InterfaceController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		97DBB1D11BA0E35B0089426A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97DBB1BA1BA0E35B0089426A /* Tudo On Line */;
+			targetProxy = 97DBB1D01BA0E35B0089426A /* PBXContainerItemProxy */;
+		};
+		97DBB1DC1BA0E35B0089426A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97DBB1BA1BA0E35B0089426A /* Tudo On Line */;
+			targetProxy = 97DBB1DB1BA0E35B0089426A /* PBXContainerItemProxy */;
+		};
+		97DBB1E61BA0E35B0089426A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97DBB1E21BA0E35B0089426A /* Tudo On Line WatchKit App */;
+			targetProxy = 97DBB1E51BA0E35B0089426A /* PBXContainerItemProxy */;
+		};
+		97DBB1F51BA0E35C0089426A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97DBB1F11BA0E35C0089426A /* Tudo On Line WatchKit Extension */;
+			targetProxy = 97DBB1F41BA0E35C0089426A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		97DBB1C21BA0E35B0089426A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97DBB1C31BA0E35B0089426A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		97DBB1C71BA0E35B0089426A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97DBB1C81BA0E35B0089426A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		97DBB1E81BA0E35B0089426A /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97DBB1E91BA0E35B0089426A /* Base */,
+			);
+			name = Interface.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		97DBB2021BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97DBB2031BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97DBB2051BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Tudo On Line WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line.watchkitapp.watchkitextension";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Debug;
+		};
+		97DBB2061BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Tudo On Line WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line.watchkitapp.watchkitextension";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Release;
+		};
+		97DBB2091BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				IBSC_MODULE = Tudo_On_Line_WatchKit_Extension;
+				INFOPLIST_FILE = "Tudo On Line WatchKit App/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Debug;
+		};
+		97DBB20A1BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				IBSC_MODULE = Tudo_On_Line_WatchKit_Extension;
+				INFOPLIST_FILE = "Tudo On Line WatchKit App/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Release;
+		};
+		97DBB20D1BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Tudo On Line/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		97DBB20E1BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Tudo On Line/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		97DBB2101BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Tudo On LineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-LineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tudo On Line.app/Tudo On Line";
+			};
+			name = Debug;
+		};
+		97DBB2111BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Tudo On LineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-LineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tudo On Line.app/Tudo On Line";
+			};
+			name = Release;
+		};
+		97DBB2131BA0E35C0089426A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Tudo On LineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-LineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Tudo On Line";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		97DBB2141BA0E35C0089426A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Tudo On LineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-LineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Tudo On Line";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97DBB1B61BA0E35B0089426A /* Build configuration list for PBXProject "Tudo On Line" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB2021BA0E35C0089426A /* Debug */,
+				97DBB2031BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97DBB2041BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB2051BA0E35C0089426A /* Debug */,
+				97DBB2061BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		97DBB2081BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB2091BA0E35C0089426A /* Debug */,
+				97DBB20A1BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		97DBB20C1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB20D1BA0E35C0089426A /* Debug */,
+				97DBB20E1BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		97DBB20F1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB2101BA0E35C0089426A /* Debug */,
+				97DBB2111BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		97DBB2121BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97DBB2131BA0E35C0089426A /* Debug */,
+				97DBB2141BA0E35C0089426A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97DBB1B31BA0E35B0089426A /* Project object */;
+}
