@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F637471CC86F50F171478AF /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 818F40CB40D6B62E5A3E1BAE /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		9725AF4F1BB4A50600EBC054 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9725AF4E1BB4A50600EBC054 /* SWRevealViewController.m */; };
+		9725AF521BB4DE3300EBC054 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9725AF511BB4DE3300EBC054 /* Menu.swift */; };
+		9725AF541BB4E30200EBC054 /* Promocoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9725AF531BB4E30200EBC054 /* Promocoes.swift */; };
+		975DAEA11BB715E000FCAB88 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975DAEA01BB715E000FCAB88 /* MenuCell.swift */; };
+		975DAEA31BB71E7900FCAB88 /* RestaurantesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975DAEA21BB71E7900FCAB88 /* RestaurantesCell.swift */; };
+		975DAEA51BB7219C00FCAB88 /* PromocaoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975DAEA41BB7219C00FCAB88 /* PromocaoCell.swift */; };
+		975F77D41BBA18D70054F76C /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 975F77D31BBA18D70054F76C /* Podfile */; };
+		978634381BB5CB2200338C52 /* ic_person_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 978634351BB5CB2200338C52 /* ic_person_2x.png */; };
+		978634391BB5CB2200338C52 /* ic_person_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 978634361BB5CB2200338C52 /* ic_person_3x.png */; };
+		9786343A1BB5CB2200338C52 /* ic_person.png in Resources */ = {isa = PBXBuildFile; fileRef = 978634371BB5CB2200338C52 /* ic_person.png */; };
+		97D6A7281BA90FA700FD5993 /* Restaurantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D6A7271BA90FA700FD5993 /* Restaurantes.swift */; };
+		97D6A72B1BA9104A00FD5993 /* HamburgerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D6A72A1BA9104A00FD5993 /* HamburgerButton.swift */; };
 		97DBB1BF1BA0E35B0089426A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */; };
 		97DBB1C11BA0E35B0089426A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1C01BA0E35B0089426A /* ViewController.swift */; };
 		97DBB1C41BA0E35B0089426A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1C21BA0E35B0089426A /* Main.storyboard */; };
@@ -23,9 +36,6 @@
 		97DBB1FE1BA0E35C0089426A /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB1FD1BA0E35C0089426A /* NotificationController.swift */; };
 		97DBB2001BA0E35C0089426A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DBB1FF1BA0E35C0089426A /* Assets.xcassets */; };
 		97DBB2161BA1125C0089426A /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB2151BA1125C0089426A /* CustomView.swift */; };
-		97DBB21A1BA130A80089426A /* DLRadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB2191BA130A80089426A /* DLRadioButton.m */; };
-		97DBB21C1BA136A80089426A /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB21B1BA136A80089426A /* CheckBox.swift */; };
-		97DBB21E1BA137C50089426A /* CheckBoxLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +95,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		20CBB89D15F5038909F37E08 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		818F40CB40D6B62E5A3E1BAE /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9725AF4C1BB4A50400EBC054 /* Tudo On Line-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tudo On Line-Bridging-Header.h"; sourceTree = "<group>"; };
+		9725AF4D1BB4A50600EBC054 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		9725AF4E1BB4A50600EBC054 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		9725AF511BB4DE3300EBC054 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		9725AF531BB4E30200EBC054 /* Promocoes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Promocoes.swift; sourceTree = "<group>"; };
+		975DAEA01BB715E000FCAB88 /* MenuCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
+		975DAEA21BB71E7900FCAB88 /* RestaurantesCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantesCell.swift; sourceTree = "<group>"; };
+		975DAEA41BB7219C00FCAB88 /* PromocaoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PromocaoCell.swift; sourceTree = "<group>"; };
+		975F77D31BBA18D70054F76C /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		978634351BB5CB2200338C52 /* ic_person_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_person_2x.png; sourceTree = "<group>"; };
+		978634361BB5CB2200338C52 /* ic_person_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_person_3x.png; sourceTree = "<group>"; };
+		978634371BB5CB2200338C52 /* ic_person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_person.png; sourceTree = "<group>"; };
+		97D6A7271BA90FA700FD5993 /* Restaurantes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Restaurantes.swift; sourceTree = "<group>"; };
+		97D6A72A1BA9104A00FD5993 /* HamburgerButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HamburgerButton.swift; sourceTree = "<group>"; };
 		97DBB1BB1BA0E35B0089426A /* Tudo On Line.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tudo On Line.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		97DBB1C01BA0E35B0089426A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -110,10 +136,7 @@
 		97DBB1FF1BA0E35C0089426A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97DBB2011BA0E35C0089426A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97DBB2151BA1125C0089426A /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
-		97DBB2181BA130A80089426A /* DLRadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLRadioButton.h; sourceTree = "<group>"; };
-		97DBB2191BA130A80089426A /* DLRadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLRadioButton.m; sourceTree = "<group>"; };
-		97DBB21B1BA136A80089426A /* CheckBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
-		97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CheckBoxLayer.swift; path = DLRadioButton/CheckBoxLayer.swift; sourceTree = "<group>"; };
+		FA19A2BB30A0D8D6FCF3853F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +144,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F637471CC86F50F171478AF /* Pods.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,15 +172,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5951B10769EB88C1BCD88458 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA19A2BB30A0D8D6FCF3853F /* Pods.debug.xcconfig */,
+				20CBB89D15F5038909F37E08 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		9725AF501BB4A55B00EBC054 /* SWRevealViewController */ = {
+			isa = PBXGroup;
+			children = (
+				9725AF4D1BB4A50600EBC054 /* SWRevealViewController.h */,
+				9725AF4E1BB4A50600EBC054 /* SWRevealViewController.m */,
+				9725AF4C1BB4A50400EBC054 /* Tudo On Line-Bridging-Header.h */,
+			);
+			name = SWRevealViewController;
+			sourceTree = "<group>";
+		};
+		975DAE9F1BB715A000FCAB88 /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				975DAEA01BB715E000FCAB88 /* MenuCell.swift */,
+				975DAEA21BB71E7900FCAB88 /* RestaurantesCell.swift */,
+				975DAEA41BB7219C00FCAB88 /* PromocaoCell.swift */,
+			);
+			name = TableViewCells;
+			sourceTree = "<group>";
+		};
+		97D6A7291BA90FB100FD5993 /* TableViewControler */ = {
+			isa = PBXGroup;
+			children = (
+				97D6A7271BA90FA700FD5993 /* Restaurantes.swift */,
+				9725AF511BB4DE3300EBC054 /* Menu.swift */,
+				9725AF531BB4E30200EBC054 /* Promocoes.swift */,
+			);
+			name = TableViewControler;
+			sourceTree = "<group>";
+		};
 		97DBB1B21BA0E35B0089426A = {
 			isa = PBXGroup;
 			children = (
+				975F77D31BBA18D70054F76C /* Podfile */,
 				97DBB1BD1BA0E35B0089426A /* Tudo On Line */,
 				97DBB1D21BA0E35B0089426A /* Tudo On LineTests */,
 				97DBB1DD1BA0E35B0089426A /* Tudo On LineUITests */,
 				97DBB1E71BA0E35B0089426A /* Tudo On Line WatchKit App */,
 				97DBB1F61BA0E35C0089426A /* Tudo On Line WatchKit Extension */,
 				97DBB1BC1BA0E35B0089426A /* Products */,
+				5951B10769EB88C1BCD88458 /* Pods */,
+				A5D67070FEA7EFD9C995EBE9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -175,16 +241,20 @@
 		97DBB1BD1BA0E35B0089426A /* Tudo On Line */ = {
 			isa = PBXGroup;
 			children = (
+				975DAE9F1BB715A000FCAB88 /* TableViewCells */,
+				9725AF501BB4A55B00EBC054 /* SWRevealViewController */,
+				97D6A7291BA90FB100FD5993 /* TableViewControler */,
 				97DBB1BE1BA0E35B0089426A /* AppDelegate.swift */,
 				97DBB2151BA1125C0089426A /* CustomView.swift */,
+				97D6A72A1BA9104A00FD5993 /* HamburgerButton.swift */,
 				97DBB1C01BA0E35B0089426A /* ViewController.swift */,
 				97DBB1C21BA0E35B0089426A /* Main.storyboard */,
 				97DBB1C51BA0E35B0089426A /* Assets.xcassets */,
+				978634351BB5CB2200338C52 /* ic_person_2x.png */,
+				978634361BB5CB2200338C52 /* ic_person_3x.png */,
+				978634371BB5CB2200338C52 /* ic_person.png */,
 				97DBB1C71BA0E35B0089426A /* LaunchScreen.storyboard */,
 				97DBB1CA1BA0E35B0089426A /* Info.plist */,
-				97DBB2171BA130A80089426A /* DLRadioButton */,
-				97DBB21B1BA136A80089426A /* CheckBox.swift */,
-				97DBB21D1BA137C50089426A /* CheckBoxLayer.swift */,
 			);
 			path = "Tudo On Line";
 			sourceTree = "<group>";
@@ -238,13 +308,12 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		97DBB2171BA130A80089426A /* DLRadioButton */ = {
+		A5D67070FEA7EFD9C995EBE9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				97DBB2181BA130A80089426A /* DLRadioButton.h */,
-				97DBB2191BA130A80089426A /* DLRadioButton.m */,
+				818F40CB40D6B62E5A3E1BAE /* Pods.framework */,
 			);
-			path = DLRadioButton;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -254,10 +323,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 97DBB20C1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line" */;
 			buildPhases = (
+				5491AB936CD283F2777EC856 /* Check Pods Manifest.lock */,
 				97DBB1B71BA0E35B0089426A /* Sources */,
 				97DBB1B81BA0E35B0089426A /* Frameworks */,
 				97DBB1B91BA0E35B0089426A /* Resources */,
 				97DBB20B1BA0E35C0089426A /* Embed Watch Content */,
+				CC4CC2CC3029D1BBABF9929B /* Embed Pods Frameworks */,
+				1674333AFB94CBE43936D9EB /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -345,6 +417,7 @@
 		97DBB1B31BA0E35B0089426A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = com.douglasalexandre;
 				TargetAttributes = {
@@ -396,6 +469,10 @@
 			files = (
 				97DBB1C91BA0E35B0089426A /* LaunchScreen.storyboard in Resources */,
 				97DBB1C61BA0E35B0089426A /* Assets.xcassets in Resources */,
+				978634391BB5CB2200338C52 /* ic_person_3x.png in Resources */,
+				978634381BB5CB2200338C52 /* ic_person_2x.png in Resources */,
+				9786343A1BB5CB2200338C52 /* ic_person.png in Resources */,
+				975F77D41BBA18D70054F76C /* Podfile in Resources */,
 				97DBB1C41BA0E35B0089426A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,17 +510,70 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1674333AFB94CBE43936D9EB /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5491AB936CD283F2777EC856 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CC4CC2CC3029D1BBABF9929B /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		97DBB1B71BA0E35B0089426A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				97DBB2161BA1125C0089426A /* CustomView.swift in Sources */,
-				97DBB21A1BA130A80089426A /* DLRadioButton.m in Sources */,
+				9725AF541BB4E30200EBC054 /* Promocoes.swift in Sources */,
+				975DAEA11BB715E000FCAB88 /* MenuCell.swift in Sources */,
+				97D6A7281BA90FA700FD5993 /* Restaurantes.swift in Sources */,
+				975DAEA31BB71E7900FCAB88 /* RestaurantesCell.swift in Sources */,
+				975DAEA51BB7219C00FCAB88 /* PromocaoCell.swift in Sources */,
+				9725AF521BB4DE3300EBC054 /* Menu.swift in Sources */,
 				97DBB1C11BA0E35B0089426A /* ViewController.swift in Sources */,
+				97D6A72B1BA9104A00FD5993 /* HamburgerButton.swift in Sources */,
 				97DBB1BF1BA0E35B0089426A /* AppDelegate.swift in Sources */,
-				97DBB21E1BA137C50089426A /* CheckBoxLayer.swift in Sources */,
-				97DBB21C1BA136A80089426A /* CheckBox.swift in Sources */,
+				9725AF4F1BB4A50600EBC054 /* SWRevealViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -675,23 +805,30 @@
 		};
 		97DBB20D1BA0E35C0089426A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA19A2BB30A0D8D6FCF3853F /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Tudo On Line/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tudo On Line/Tudo On Line-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		97DBB20E1BA0E35C0089426A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20CBB89D15F5038909F37E08 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Tudo On Line/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "douglasalexandre.ios.development.Tudo-On-Line";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tudo On Line/Tudo On Line-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -762,6 +899,7 @@
 				97DBB2061BA0E35C0089426A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97DBB2081BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -770,6 +908,7 @@
 				97DBB20A1BA0E35C0089426A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97DBB20C1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On Line" */ = {
 			isa = XCConfigurationList;
@@ -778,6 +917,7 @@
 				97DBB20E1BA0E35C0089426A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97DBB20F1BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineTests" */ = {
 			isa = XCConfigurationList;
@@ -786,6 +926,7 @@
 				97DBB2111BA0E35C0089426A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97DBB2121BA0E35C0089426A /* Build configuration list for PBXNativeTarget "Tudo On LineUITests" */ = {
 			isa = XCConfigurationList;
@@ -794,6 +935,7 @@
 				97DBB2141BA0E35C0089426A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
