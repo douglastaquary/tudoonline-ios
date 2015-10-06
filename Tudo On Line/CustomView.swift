@@ -69,7 +69,7 @@ class CustomView: UIView {
     
     
     required init(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
+        super.init(coder: aDecoder)!
         backgroundColor = UIColor.clearColor();
         imageView = UIImageView()
         imageView.backgroundColor = UIColor.clearColor();

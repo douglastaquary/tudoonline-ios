@@ -16,6 +16,32 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
+        //Alterado por Orlando
+        
+        //Designer
+        UINavigationBar.appearance().barTintColor = UIColor(red: 251/255, green: 99/255, blue: 49/255, alpha: 1.0)
+        UINavigationBar.appearance().tintColor = UIColor.whiteColor()
+        //Item selecionado
+        UITabBarItem.appearance().setTitleTextAttributes([NSForegroundColorAttributeName: UIColor(red: 251/255, green: 99/255, blue: 49/255, alpha: 1.0) ], forState: .Selected)
+        //Cor da barra
+        UITabBar.appearance().tintColor = UIColor(red: 251/255, green: 99/255, blue: 49/255, alpha: 1.0)
+        
+        
+        //So uma adicao que gosto de usar.
+        if #available(iOS 9.0, *) {
+            let font = UIFont(name: ".SFUIText-Light", size: 18)
+            if let font = font {
+                UINavigationBar.appearance().titleTextAttributes = [NSFontAttributeName : font, NSForegroundColorAttributeName : UIColor.whiteColor()]
+            }
+        } else {
+            let font = UIFont(name: "HelveticaNeue-Thin", size: 18)
+            if let font = font {
+                UINavigationBar.appearance().titleTextAttributes = [NSFontAttributeName : font, NSForegroundColorAttributeName : UIColor.whiteColor()]
+            }
+        }
+
+        
         return true
     }
 
