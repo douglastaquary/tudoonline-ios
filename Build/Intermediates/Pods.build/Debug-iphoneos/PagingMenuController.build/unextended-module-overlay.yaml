@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphoneos/PagingMenuController.build/unextended-module.modulemap',
+    }]
+  }]
+}

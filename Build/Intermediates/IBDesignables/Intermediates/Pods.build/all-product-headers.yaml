@@ -1,0 +1,314 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PagingMenuController-Swift.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PagingMenuController-umbrella.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/Target Support Files/PagingMenuController/PagingMenuController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Intermediates/Pods.build/Debug-iphonesimulator/PagingMenuController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TFTransparentNavigationBar-Swift.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TFTransparentNavigationBar-umbrella.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/Target Support Files/TFTransparentNavigationBar/TFTransparentNavigationBar-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Intermediates/Pods.build/Debug-iphonesimulator/TFTransparentNavigationBar.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSArray+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/NSArray+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSExpression+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/NSExpression+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/NSObject+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSPredicate+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/NSPredicate+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/NSString+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+XLFormAdditions.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/UIView+XLFormAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLForm-Swift.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLForm-umbrella.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/Target Support Files/XLForm/XLForm-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLForm.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/XLForm.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormBaseCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormBaseCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormButtonCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormButtonCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormCheckCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormCheckCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormDateCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormDateCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormDatePickerCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormDatePickerCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormDescriptor.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Descriptors/XLFormDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormDescriptorCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormDescriptorCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormDescriptorDelegate.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Descriptors/XLFormDescriptorDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormInlineRowDescriptorCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormInlineRowDescriptorCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormInlineSelectorCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormInlineSelectorCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormLeftRightSelectorCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormLeftRightSelectorCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormOptionsObject.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Controllers/XLFormOptionsObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormOptionsViewController.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Controllers/XLFormOptionsViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormPickerCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormPickerCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRegexValidator.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Validation/XLFormRegexValidator.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRightDetailCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/Views/XLFormRightDetailCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRightImageButton.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/Views/XLFormRightImageButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRowDescriptor.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Descriptors/XLFormRowDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRowDescriptorViewController.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Controllers/XLFormRowDescriptorViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormRowNavigationAccessoryView.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/Views/XLFormRowNavigationAccessoryView.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormSectionDescriptor.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Descriptors/XLFormSectionDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormSegmentedCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormSegmentedCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormSelectorCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormSelectorCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormSliderCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormSliderCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormStepCounterCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormStepCounterCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormSwitchCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormSwitchCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormTextFieldCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormTextFieldCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormTextView.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Helpers/Views/XLFormTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormTextViewCell.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Cell/XLFormTextViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormValidationStatus.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Validation/XLFormValidationStatus.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormValidator.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Validation/XLFormValidator.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormValidatorProtocol.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Validation/XLFormValidatorProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "XLFormViewController.h",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Pods/XLForm/XLForm/XL/Controllers/XLFormViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Intermediates/Pods.build/Debug-iphonesimulator/XLForm.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

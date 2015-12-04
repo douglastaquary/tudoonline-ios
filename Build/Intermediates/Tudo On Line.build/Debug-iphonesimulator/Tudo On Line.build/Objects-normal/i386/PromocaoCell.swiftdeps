@@ -1,0 +1,363 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PromocaoCell"
+provides-nominal:
+- "C12Tudo_On_Line12PromocaoCell"
+provides-member:
+- ["C12Tudo_On_Line12PromocaoCell", ""]
+provides-dynamic-lookup:
+- "circuloStatusDoRestaurante"
+- "iconeDistanciaPromocao"
+- "awakeFromNib"
+- "logoRestaurantePromocao"
+- "distancia"
+- "nomeDoRestaurante"
+- "setSelected"
+- "promocaoLabel"
+- "valorPromocao"
+depends-top-level:
+- "UITableViewCell"
+- "Bool"
+- "UILabel"
+- "UIImageView"
+- "PromocaoCell"
+- "CustomView"
+depends-member:
+- ["PSs9AnyObject", "awakeFromNib"]
+- ["PSs9AnyObject", "circuloStatusDoRestaurante"]
+- ["PSs9AnyObject", "distancia"]
+- ["PSs9AnyObject", "iconeDistanciaPromocao"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "logoRestaurantePromocao"]
+- ["PSs9AnyObject", "nomeDoRestaurante"]
+- ["PSs9AnyObject", "promocaoLabel"]
+- ["PSs9AnyObject", "setSelected"]
+- ["PSs9AnyObject", "valorPromocao"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "awakeFromNib"]
+- ["PSs11CVarArgType", "circuloStatusDoRestaurante"]
+- ["PSs11CVarArgType", "distancia"]
+- ["PSs11CVarArgType", "iconeDistanciaPromocao"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "logoRestaurantePromocao"]
+- ["PSs11CVarArgType", "nomeDoRestaurante"]
+- ["PSs11CVarArgType", "promocaoLabel"]
+- ["PSs11CVarArgType", "setSelected"]
+- ["PSs11CVarArgType", "valorPromocao"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "awakeFromNib"]
+- ["PSs23CustomStringConvertible", "circuloStatusDoRestaurante"]
+- ["PSs23CustomStringConvertible", "distancia"]
+- ["PSs23CustomStringConvertible", "iconeDistanciaPromocao"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "logoRestaurantePromocao"]
+- ["PSs23CustomStringConvertible", "nomeDoRestaurante"]
+- ["PSs23CustomStringConvertible", "promocaoLabel"]
+- ["PSs23CustomStringConvertible", "setSelected"]
+- ["PSs23CustomStringConvertible", "valorPromocao"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "awakeFromNib"]
+- ["PSs9Equatable", "circuloStatusDoRestaurante"]
+- ["PSs9Equatable", "distancia"]
+- ["PSs9Equatable", "iconeDistanciaPromocao"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "logoRestaurantePromocao"]
+- ["PSs9Equatable", "nomeDoRestaurante"]
+- ["PSs9Equatable", "promocaoLabel"]
+- ["PSs9Equatable", "setSelected"]
+- ["PSs9Equatable", "valorPromocao"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "awakeFromNib"]
+- ["PSs8Hashable", "circuloStatusDoRestaurante"]
+- ["PSs8Hashable", "distancia"]
+- ["PSs8Hashable", "iconeDistanciaPromocao"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "logoRestaurantePromocao"]
+- ["PSs8Hashable", "nomeDoRestaurante"]
+- ["PSs8Hashable", "promocaoLabel"]
+- ["PSs8Hashable", "setSelected"]
+- ["PSs8Hashable", "valorPromocao"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "circuloStatusDoRestaurante"]
+- ["PSo8NSCoding", "distancia"]
+- ["PSo8NSCoding", "iconeDistanciaPromocao"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "logoRestaurantePromocao"]
+- ["PSo8NSCoding", "nomeDoRestaurante"]
+- ["PSo8NSCoding", "promocaoLabel"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", "valorPromocao"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "CustomView"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "circuloStatusDoRestaurante"]
+- ["CSo8NSObject", "distancia"]
+- ["CSo8NSObject", "iconeDistanciaPromocao"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "logoRestaurantePromocao"]
+- ["CSo8NSObject", "nomeDoRestaurante"]
+- ["CSo8NSObject", "promocaoLabel"]
+- ["CSo8NSObject", "setSelected"]
+- ["CSo8NSObject", "valorPromocao"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "circuloStatusDoRestaurante"]
+- ["PSo16NSObjectProtocol", "distancia"]
+- ["PSo16NSObjectProtocol", "iconeDistanciaPromocao"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "logoRestaurantePromocao"]
+- ["PSo16NSObjectProtocol", "nomeDoRestaurante"]
+- ["PSo16NSObjectProtocol", "promocaoLabel"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", "valorPromocao"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C12Tudo_On_Line12PromocaoCell", "Bool"]
+- ["C12Tudo_On_Line12PromocaoCell", "CustomView"]
+- ["C12Tudo_On_Line12PromocaoCell", "UIImageView"]
+- ["C12Tudo_On_Line12PromocaoCell", "UILabel"]
+- ["C12Tudo_On_Line12PromocaoCell", "awakeFromNib"]
+- ["C12Tudo_On_Line12PromocaoCell", "circuloStatusDoRestaurante"]
+- ["C12Tudo_On_Line12PromocaoCell", "deinit"]
+- ["C12Tudo_On_Line12PromocaoCell", "distancia"]
+- ["C12Tudo_On_Line12PromocaoCell", "iconeDistanciaPromocao"]
+- ["C12Tudo_On_Line12PromocaoCell", "init"]
+- ["C12Tudo_On_Line12PromocaoCell", "logoRestaurantePromocao"]
+- ["C12Tudo_On_Line12PromocaoCell", "nomeDoRestaurante"]
+- ["C12Tudo_On_Line12PromocaoCell", "promocaoLabel"]
+- ["C12Tudo_On_Line12PromocaoCell", "setSelected"]
+- ["C12Tudo_On_Line12PromocaoCell", "valorPromocao"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "circuloStatusDoRestaurante"]
+- ["PSo29UIAccessibilityIdentification", "distancia"]
+- ["PSo29UIAccessibilityIdentification", "iconeDistanciaPromocao"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "logoRestaurantePromocao"]
+- ["PSo29UIAccessibilityIdentification", "nomeDoRestaurante"]
+- ["PSo29UIAccessibilityIdentification", "promocaoLabel"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", "valorPromocao"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "circuloStatusDoRestaurante"]
+- ["PSo12UIAppearance", "distancia"]
+- ["PSo12UIAppearance", "iconeDistanciaPromocao"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "logoRestaurantePromocao"]
+- ["PSo12UIAppearance", "nomeDoRestaurante"]
+- ["PSo12UIAppearance", "promocaoLabel"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", "valorPromocao"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "circuloStatusDoRestaurante"]
+- ["PSo21UIAppearanceContainer", "distancia"]
+- ["PSo21UIAppearanceContainer", "iconeDistanciaPromocao"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "logoRestaurantePromocao"]
+- ["PSo21UIAppearanceContainer", "nomeDoRestaurante"]
+- ["PSo21UIAppearanceContainer", "promocaoLabel"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", "valorPromocao"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "circuloStatusDoRestaurante"]
+- ["PSo17UICoordinateSpace", "distancia"]
+- ["PSo17UICoordinateSpace", "iconeDistanciaPromocao"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "logoRestaurantePromocao"]
+- ["PSo17UICoordinateSpace", "nomeDoRestaurante"]
+- ["PSo17UICoordinateSpace", "promocaoLabel"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", "valorPromocao"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "circuloStatusDoRestaurante"]
+- ["PSo13UIDynamicItem", "distancia"]
+- ["PSo13UIDynamicItem", "iconeDistanciaPromocao"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "logoRestaurantePromocao"]
+- ["PSo13UIDynamicItem", "nomeDoRestaurante"]
+- ["PSo13UIDynamicItem", "promocaoLabel"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", "valorPromocao"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "circuloStatusDoRestaurante"]
+- ["PSo18UIFocusEnvironment", "distancia"]
+- ["PSo18UIFocusEnvironment", "iconeDistanciaPromocao"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "logoRestaurantePromocao"]
+- ["PSo18UIFocusEnvironment", "nomeDoRestaurante"]
+- ["PSo18UIFocusEnvironment", "promocaoLabel"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", "valorPromocao"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "circuloStatusDoRestaurante"]
+- ["PSo27UIGestureRecognizerDelegate", "distancia"]
+- ["PSo27UIGestureRecognizerDelegate", "iconeDistanciaPromocao"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "logoRestaurantePromocao"]
+- ["PSo27UIGestureRecognizerDelegate", "nomeDoRestaurante"]
+- ["PSo27UIGestureRecognizerDelegate", "promocaoLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", "valorPromocao"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "CustomView"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "circuloStatusDoRestaurante"]
+- ["CSo11UIResponder", "distancia"]
+- ["CSo11UIResponder", "iconeDistanciaPromocao"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "logoRestaurantePromocao"]
+- ["CSo11UIResponder", "nomeDoRestaurante"]
+- ["CSo11UIResponder", "promocaoLabel"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo11UIResponder", "valorPromocao"]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "CustomView"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "circuloStatusDoRestaurante"]
+- ["CSo15UITableViewCell", "distancia"]
+- ["CSo15UITableViewCell", "iconeDistanciaPromocao"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "logoRestaurantePromocao"]
+- ["CSo15UITableViewCell", "nomeDoRestaurante"]
+- ["CSo15UITableViewCell", "promocaoLabel"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "valorPromocao"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "circuloStatusDoRestaurante"]
+- ["PSo18UITraitEnvironment", "distancia"]
+- ["PSo18UITraitEnvironment", "iconeDistanciaPromocao"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "logoRestaurantePromocao"]
+- ["PSo18UITraitEnvironment", "nomeDoRestaurante"]
+- ["PSo18UITraitEnvironment", "promocaoLabel"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", "valorPromocao"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "CustomView"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "circuloStatusDoRestaurante"]
+- ["CSo6UIView", "distancia"]
+- ["CSo6UIView", "iconeDistanciaPromocao"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "logoRestaurantePromocao"]
+- ["CSo6UIView", "nomeDoRestaurante"]
+- ["CSo6UIView", "promocaoLabel"]
+- ["CSo6UIView", "setSelected"]
+- ["CSo6UIView", "valorPromocao"]
+- ["PSs12_Reflectable", "awakeFromNib"]
+- ["PSs12_Reflectable", "circuloStatusDoRestaurante"]
+- ["PSs12_Reflectable", "distancia"]
+- ["PSs12_Reflectable", "iconeDistanciaPromocao"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "logoRestaurantePromocao"]
+- ["PSs12_Reflectable", "nomeDoRestaurante"]
+- ["PSs12_Reflectable", "promocaoLabel"]
+- ["PSs12_Reflectable", "setSelected"]
+- ["PSs12_Reflectable", "valorPromocao"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C12Tudo_On_Line12PromocaoCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/i386.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/i386.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreAudio.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreLocation.swiftmodule"
+interface-hash: "02bc70246b11413a59f5adcd27d6ad33"

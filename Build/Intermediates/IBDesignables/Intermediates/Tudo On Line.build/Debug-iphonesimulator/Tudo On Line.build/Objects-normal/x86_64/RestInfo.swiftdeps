@@ -1,0 +1,186 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RestInfo"
+provides-nominal:
+- "C12Tudo_On_Line8RestInfo"
+provides-member:
+- ["C12Tudo_On_Line8RestInfo", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+depends-top-level:
+- "RestInfo"
+- "UIView"
+depends-member:
+- ["PSs9AnyObject", "awakeFromNib"]
+- !private ["PSs9AnyObject", "cornerRadius"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "layer"]
+- ["PSs9AnyObject", ""]
+- !private ["CSo7CALayer", "cornerRadius"]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- ["PSs11CVarArgType", "awakeFromNib"]
+- !private ["PSs11CVarArgType", "cornerRadius"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "layer"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "awakeFromNib"]
+- !private ["PSs23CustomStringConvertible", "cornerRadius"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "layer"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "awakeFromNib"]
+- !private ["PSs9Equatable", "cornerRadius"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "layer"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "awakeFromNib"]
+- !private ["PSs8Hashable", "cornerRadius"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "layer"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "awakeFromNib"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C12Tudo_On_Line8RestInfo", "awakeFromNib"]
+- ["C12Tudo_On_Line8RestInfo", "deinit"]
+- ["C12Tudo_On_Line8RestInfo", "init"]
+- !private ["C12Tudo_On_Line8RestInfo", "layer"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", ""]
+- ["PSs12_Reflectable", "awakeFromNib"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "layer"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "CSo7CALayer"
+- !private "PSo13CAMediaTiming"
+- !private "V12CoreGraphics7CGFloat"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C12Tudo_On_Line8RestInfo"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/x86_64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/x86_64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "597087cdc50e09fd91b0179f4eaffa51"

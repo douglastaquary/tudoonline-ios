@@ -10,14 +10,11 @@ import UIKit
 
 class Promocoes: UITableViewController {
     
-    @IBOutlet weak var menuButton: UIBarButtonItem!
-
     override func viewDidLoad() {
         super.viewDidLoad()
         
         if self.revealViewController() != nil {
-            menuButton.target = self.revealViewController()
-            menuButton.action = "revealToggle:"
+            self.navigationItem.leftBarButtonItem = UIBarButtonItem(image: UIImage(named: "menu_icon-44.png"), style: UIBarButtonItemStyle.Plain, target: self.revealViewController(), action: "revealToggle:")
             self.view.addGestureRecognizer(self.revealViewController().panGestureRecognizer())
         }
 
@@ -33,6 +30,11 @@ class Promocoes: UITableViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return UIStatusBarStyle.LightContent
+    }
+    
+    
     // MARK: - Table view data source
 
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {

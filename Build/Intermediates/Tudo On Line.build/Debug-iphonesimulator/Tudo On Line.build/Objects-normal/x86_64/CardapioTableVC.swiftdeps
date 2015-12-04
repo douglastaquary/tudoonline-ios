@@ -1,0 +1,465 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CardapioTableVC"
+provides-nominal:
+- "C12Tudo_On_Line15CardapioTableVC"
+provides-member:
+- ["C12Tudo_On_Line15CardapioTableVC", ""]
+provides-dynamic-lookup:
+- "tableView"
+- "tableView"
+- "tableView"
+- "viewDidLoad"
+- "preferredStatusBarStyle"
+- "didReceiveMemoryWarning"
+- "numberOfSectionsInTableView"
+- "scrollViewDidScroll"
+depends-top-level:
+- "CardapioTableVC"
+- "UIStatusBarStyle"
+- !private "NSNotificationCenter"
+- "UITableViewCell"
+- !private "StringLiteralType"
+- "UIScrollView"
+- "NSIndexPath"
+- "UITableView"
+- "UITableViewController"
+- "Int"
+depends-member:
+- !private ["PSs9AnyObject", "NSNotificationCenter"]
+- !private ["PSs9AnyObject", "UIStatusBarStyle"]
+- !private ["PSs9AnyObject", "defaultCenter"]
+- !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs9AnyObject", "detailTextLabel"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "numberOfSectionsInTableView"]
+- !private ["PSs9AnyObject", "postNotificationName"]
+- ["PSs9AnyObject", "preferredStatusBarStyle"]
+- ["PSs9AnyObject", "scrollViewDidScroll"]
+- ["PSs9AnyObject", "tableView"]
+- !private ["PSs9AnyObject", "text"]
+- !private ["PSs9AnyObject", "textLabel"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "NSNotificationCenter"]
+- !private ["PSs11CVarArgType", "UIStatusBarStyle"]
+- !private ["PSs11CVarArgType", "defaultCenter"]
+- !private ["PSs11CVarArgType", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs11CVarArgType", "detailTextLabel"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "numberOfSectionsInTableView"]
+- !private ["PSs11CVarArgType", "postNotificationName"]
+- ["PSs11CVarArgType", "preferredStatusBarStyle"]
+- ["PSs11CVarArgType", "scrollViewDidScroll"]
+- ["PSs11CVarArgType", "tableView"]
+- !private ["PSs11CVarArgType", "text"]
+- !private ["PSs11CVarArgType", "textLabel"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- ["C12Tudo_On_Line15CardapioTableVC", "Int"]
+- ["C12Tudo_On_Line15CardapioTableVC", "NSIndexPath"]
+- !private ["C12Tudo_On_Line15CardapioTableVC", "NSNotificationCenter"]
+- ["C12Tudo_On_Line15CardapioTableVC", "UIScrollView"]
+- ["C12Tudo_On_Line15CardapioTableVC", "UIStatusBarStyle"]
+- ["C12Tudo_On_Line15CardapioTableVC", "UITableView"]
+- ["C12Tudo_On_Line15CardapioTableVC", "UITableViewCell"]
+- ["C12Tudo_On_Line15CardapioTableVC", "deinit"]
+- ["C12Tudo_On_Line15CardapioTableVC", "didReceiveMemoryWarning"]
+- ["C12Tudo_On_Line15CardapioTableVC", "init"]
+- ["C12Tudo_On_Line15CardapioTableVC", "numberOfSectionsInTableView"]
+- ["C12Tudo_On_Line15CardapioTableVC", "preferredStatusBarStyle"]
+- ["C12Tudo_On_Line15CardapioTableVC", "scrollViewDidScroll"]
+- ["C12Tudo_On_Line15CardapioTableVC", "tableView"]
+- ["C12Tudo_On_Line15CardapioTableVC", "viewDidLoad"]
+- !private ["PSs23CustomStringConvertible", "NSNotificationCenter"]
+- !private ["PSs23CustomStringConvertible", "UIStatusBarStyle"]
+- !private ["PSs23CustomStringConvertible", "defaultCenter"]
+- !private ["PSs23CustomStringConvertible", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs23CustomStringConvertible", "detailTextLabel"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "numberOfSectionsInTableView"]
+- !private ["PSs23CustomStringConvertible", "postNotificationName"]
+- ["PSs23CustomStringConvertible", "preferredStatusBarStyle"]
+- ["PSs23CustomStringConvertible", "scrollViewDidScroll"]
+- ["PSs23CustomStringConvertible", "tableView"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- !private ["PSs23CustomStringConvertible", "textLabel"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "LightContent"]
+- !private ["PSs9Equatable", "NSNotificationCenter"]
+- !private ["PSs9Equatable", "UIStatusBarStyle"]
+- !private ["PSs9Equatable", "defaultCenter"]
+- !private ["PSs9Equatable", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs9Equatable", "detailTextLabel"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "numberOfSectionsInTableView"]
+- !private ["PSs9Equatable", "postNotificationName"]
+- ["PSs9Equatable", "preferredStatusBarStyle"]
+- ["PSs9Equatable", "scrollViewDidScroll"]
+- ["PSs9Equatable", "tableView"]
+- !private ["PSs9Equatable", "text"]
+- !private ["PSs9Equatable", "textLabel"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "LightContent"]
+- !private ["PSs8Hashable", "NSNotificationCenter"]
+- !private ["PSs8Hashable", "UIStatusBarStyle"]
+- !private ["PSs8Hashable", "defaultCenter"]
+- !private ["PSs8Hashable", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs8Hashable", "detailTextLabel"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "numberOfSectionsInTableView"]
+- !private ["PSs8Hashable", "postNotificationName"]
+- ["PSs8Hashable", "preferredStatusBarStyle"]
+- ["PSs8Hashable", "scrollViewDidScroll"]
+- ["PSs8Hashable", "tableView"]
+- !private ["PSs8Hashable", "text"]
+- !private ["PSs8Hashable", "textLabel"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["PSo8NSCoding", "NSNotificationCenter"]
+- !private ["PSo8NSCoding", "UIStatusBarStyle"]
+- !private ["PSo8NSCoding", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo8NSCoding", "detailTextLabel"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "numberOfSectionsInTableView"]
+- ["PSo8NSCoding", "preferredStatusBarStyle"]
+- ["PSo8NSCoding", "scrollViewDidScroll"]
+- ["PSo8NSCoding", "tableView"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "textLabel"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "NSNotificationCenter"]
+- !private ["PSo26NSExtensionRequestHandling", "UIStatusBarStyle"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "numberOfSectionsInTableView"]
+- ["PSo26NSExtensionRequestHandling", "preferredStatusBarStyle"]
+- ["PSo26NSExtensionRequestHandling", "scrollViewDidScroll"]
+- ["PSo26NSExtensionRequestHandling", "tableView"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo20NSNotificationCenter", "defaultCenter"]
+- !private ["CSo20NSNotificationCenter", "postNotificationName"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "NSIndexPath"]
+- !private ["CSo8NSObject", "NSNotificationCenter"]
+- ["CSo8NSObject", "UIScrollView"]
+- ["CSo8NSObject", "UIStatusBarStyle"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "UITableViewCell"]
+- !private ["CSo8NSObject", "defaultCenter"]
+- !private ["CSo8NSObject", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo8NSObject", "detailTextLabel"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "numberOfSectionsInTableView"]
+- !private ["CSo8NSObject", "postNotificationName"]
+- ["CSo8NSObject", "preferredStatusBarStyle"]
+- ["CSo8NSObject", "scrollViewDidScroll"]
+- ["CSo8NSObject", "tableView"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "textLabel"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "NSNotificationCenter"]
+- !private ["PSo16NSObjectProtocol", "UIStatusBarStyle"]
+- !private ["PSo16NSObjectProtocol", "defaultCenter"]
+- !private ["PSo16NSObjectProtocol", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo16NSObjectProtocol", "detailTextLabel"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "numberOfSectionsInTableView"]
+- !private ["PSo16NSObjectProtocol", "postNotificationName"]
+- ["PSo16NSObjectProtocol", "preferredStatusBarStyle"]
+- ["PSo16NSObjectProtocol", "scrollViewDidScroll"]
+- ["PSo16NSObjectProtocol", "tableView"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "textLabel"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Sq", "deinit"]
+- !private ["PSs16RawRepresentable", "LightContent"]
+- !private ["PSo29UIAccessibilityIdentification", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo29UIAccessibilityIdentification", "detailTextLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo29UIAccessibilityIdentification", "textLabel"]
+- !private ["PSo12UIAppearance", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo12UIAppearance", "detailTextLabel"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo12UIAppearance", "textLabel"]
+- !private ["PSo21UIAppearanceContainer", "NSNotificationCenter"]
+- !private ["PSo21UIAppearanceContainer", "UIStatusBarStyle"]
+- !private ["PSo21UIAppearanceContainer", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo21UIAppearanceContainer", "detailTextLabel"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "numberOfSectionsInTableView"]
+- ["PSo21UIAppearanceContainer", "preferredStatusBarStyle"]
+- ["PSo21UIAppearanceContainer", "scrollViewDidScroll"]
+- ["PSo21UIAppearanceContainer", "tableView"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "textLabel"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "NSNotificationCenter"]
+- !private ["PSo18UIContentContainer", "UIStatusBarStyle"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "numberOfSectionsInTableView"]
+- ["PSo18UIContentContainer", "preferredStatusBarStyle"]
+- ["PSo18UIContentContainer", "scrollViewDidScroll"]
+- ["PSo18UIContentContainer", "tableView"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo17UICoordinateSpace", "detailTextLabel"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo17UICoordinateSpace", "textLabel"]
+- !private ["PSo13UIDynamicItem", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo13UIDynamicItem", "detailTextLabel"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo13UIDynamicItem", "textLabel"]
+- !private ["PSo18UIFocusEnvironment", "NSNotificationCenter"]
+- !private ["PSo18UIFocusEnvironment", "UIStatusBarStyle"]
+- !private ["PSo18UIFocusEnvironment", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo18UIFocusEnvironment", "detailTextLabel"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "numberOfSectionsInTableView"]
+- ["PSo18UIFocusEnvironment", "preferredStatusBarStyle"]
+- ["PSo18UIFocusEnvironment", "scrollViewDidScroll"]
+- ["PSo18UIFocusEnvironment", "tableView"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "textLabel"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "detailTextLabel"]
+- !private ["PSo27UIGestureRecognizerDelegate", "textLabel"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "NSIndexPath"]
+- !private ["CSo11UIResponder", "NSNotificationCenter"]
+- ["CSo11UIResponder", "UIScrollView"]
+- ["CSo11UIResponder", "UIStatusBarStyle"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "UITableViewCell"]
+- !private ["CSo11UIResponder", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo11UIResponder", "detailTextLabel"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "numberOfSectionsInTableView"]
+- ["CSo11UIResponder", "preferredStatusBarStyle"]
+- ["CSo11UIResponder", "scrollViewDidScroll"]
+- ["CSo11UIResponder", "tableView"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "textLabel"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["CSo12UIScrollView", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo20UIScrollViewDelegate", "NSNotificationCenter"]
+- !private ["PSo20UIScrollViewDelegate", "UIStatusBarStyle"]
+- ["PSo20UIScrollViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- ["PSo20UIScrollViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo20UIScrollViewDelegate", "preferredStatusBarStyle"]
+- ["PSo20UIScrollViewDelegate", "scrollViewDidScroll"]
+- ["PSo20UIScrollViewDelegate", "tableView"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "NSNotificationCenter"]
+- !private ["PSo16UIStateRestoring", "UIStatusBarStyle"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "numberOfSectionsInTableView"]
+- ["PSo16UIStateRestoring", "preferredStatusBarStyle"]
+- ["PSo16UIStateRestoring", "scrollViewDidScroll"]
+- ["PSo16UIStateRestoring", "tableView"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["OSC16UIStatusBarStyle", "LightContent"]
+- !private ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo15UITableViewCell", "detailTextLabel"]
+- !private ["CSo15UITableViewCell", "textLabel"]
+- ["CSo21UITableViewController", "Int"]
+- ["CSo21UITableViewController", "NSIndexPath"]
+- !private ["CSo21UITableViewController", "NSNotificationCenter"]
+- ["CSo21UITableViewController", "UIScrollView"]
+- ["CSo21UITableViewController", "UIStatusBarStyle"]
+- ["CSo21UITableViewController", "UITableView"]
+- ["CSo21UITableViewController", "UITableViewCell"]
+- ["CSo21UITableViewController", "didReceiveMemoryWarning"]
+- ["CSo21UITableViewController", "init"]
+- ["CSo21UITableViewController", "numberOfSectionsInTableView"]
+- ["CSo21UITableViewController", "preferredStatusBarStyle"]
+- ["CSo21UITableViewController", "scrollViewDidScroll"]
+- ["CSo21UITableViewController", "tableView"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "NSNotificationCenter"]
+- !private ["PSo21UITableViewDataSource", "UIStatusBarStyle"]
+- ["PSo21UITableViewDataSource", "didReceiveMemoryWarning"]
+- ["PSo21UITableViewDataSource", "init"]
+- ["PSo21UITableViewDataSource", "numberOfSectionsInTableView"]
+- ["PSo21UITableViewDataSource", "preferredStatusBarStyle"]
+- ["PSo21UITableViewDataSource", "scrollViewDidScroll"]
+- ["PSo21UITableViewDataSource", "tableView"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "NSNotificationCenter"]
+- !private ["PSo19UITableViewDelegate", "UIStatusBarStyle"]
+- ["PSo19UITableViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo19UITableViewDelegate", "init"]
+- ["PSo19UITableViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo19UITableViewDelegate", "preferredStatusBarStyle"]
+- ["PSo19UITableViewDelegate", "scrollViewDidScroll"]
+- ["PSo19UITableViewDelegate", "tableView"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- !private ["PSo18UITraitEnvironment", "NSNotificationCenter"]
+- !private ["PSo18UITraitEnvironment", "UIStatusBarStyle"]
+- !private ["PSo18UITraitEnvironment", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo18UITraitEnvironment", "detailTextLabel"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "numberOfSectionsInTableView"]
+- ["PSo18UITraitEnvironment", "preferredStatusBarStyle"]
+- ["PSo18UITraitEnvironment", "scrollViewDidScroll"]
+- ["PSo18UITraitEnvironment", "tableView"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "textLabel"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo6UIView", "detailTextLabel"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo6UIView", "textLabel"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "NSIndexPath"]
+- !private ["CSo16UIViewController", "NSNotificationCenter"]
+- ["CSo16UIViewController", "UIScrollView"]
+- ["CSo16UIViewController", "UIStatusBarStyle"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "UITableViewCell"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "numberOfSectionsInTableView"]
+- ["CSo16UIViewController", "preferredStatusBarStyle"]
+- ["CSo16UIViewController", "scrollViewDidScroll"]
+- ["CSo16UIViewController", "tableView"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["PSs12_Reflectable", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs12_Reflectable", "detailTextLabel"]
+- !private ["PSs12_Reflectable", "text"]
+- !private ["PSs12_Reflectable", "textLabel"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C12Tudo_On_Line15CardapioTableVC"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo20NSNotificationCenter"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Sq"
+- !private "PSs16RawRepresentable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- !private "OSC16UIStatusBarStyle"
+- !private "CSo11UITableView"
+- !private "CSo15UITableViewCell"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/x86_64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/x86_64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "a069e64c9b4706a766d2c0d090e58d04"

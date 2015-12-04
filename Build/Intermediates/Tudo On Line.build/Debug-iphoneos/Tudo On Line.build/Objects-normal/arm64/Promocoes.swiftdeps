@@ -1,0 +1,517 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Promocoes"
+provides-nominal:
+- "C12Tudo_On_Line9Promocoes"
+provides-member:
+- ["C12Tudo_On_Line9Promocoes", ""]
+provides-dynamic-lookup:
+- "preferredStatusBarStyle"
+- "tableView"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+- "numberOfSectionsInTableView"
+depends-top-level:
+- !private "!="
+- !private "StringLiteralType"
+- !private "UIImage"
+- "Int"
+- "UITableView"
+- !private "UIBarButtonItemStyle"
+- "Promocoes"
+- !private "UIBarButtonItem"
+- "UIStatusBarStyle"
+- "UITableViewController"
+depends-member:
+- !private ["PSs9AnyObject", "UIBarButtonItem"]
+- !private ["PSs9AnyObject", "UIBarButtonItemStyle"]
+- !private ["PSs9AnyObject", "UIImage"]
+- !private ["PSs9AnyObject", "UIStatusBarStyle"]
+- !private ["PSs9AnyObject", "addGestureRecognizer"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "leftBarButtonItem"]
+- !private ["PSs9AnyObject", "navigationItem"]
+- ["PSs9AnyObject", "numberOfSectionsInTableView"]
+- !private ["PSs9AnyObject", "panGestureRecognizer"]
+- ["PSs9AnyObject", "preferredStatusBarStyle"]
+- !private ["PSs9AnyObject", "revealViewController"]
+- ["PSs9AnyObject", "tableView"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "UIBarButtonItem"]
+- !private ["PSs11CVarArgType", "UIBarButtonItemStyle"]
+- !private ["PSs11CVarArgType", "UIImage"]
+- !private ["PSs11CVarArgType", "UIStatusBarStyle"]
+- !private ["PSs11CVarArgType", "addGestureRecognizer"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "leftBarButtonItem"]
+- !private ["PSs11CVarArgType", "navigationItem"]
+- ["PSs11CVarArgType", "numberOfSectionsInTableView"]
+- !private ["PSs11CVarArgType", "panGestureRecognizer"]
+- ["PSs11CVarArgType", "preferredStatusBarStyle"]
+- !private ["PSs11CVarArgType", "revealViewController"]
+- ["PSs11CVarArgType", "tableView"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "UIBarButtonItem"]
+- !private ["PSs23CustomStringConvertible", "UIBarButtonItemStyle"]
+- !private ["PSs23CustomStringConvertible", "UIImage"]
+- !private ["PSs23CustomStringConvertible", "UIStatusBarStyle"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "addGestureRecognizer"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "leftBarButtonItem"]
+- !private ["PSs23CustomStringConvertible", "navigationItem"]
+- ["PSs23CustomStringConvertible", "numberOfSectionsInTableView"]
+- !private ["PSs23CustomStringConvertible", "panGestureRecognizer"]
+- ["PSs23CustomStringConvertible", "preferredStatusBarStyle"]
+- !private ["PSs23CustomStringConvertible", "revealViewController"]
+- ["PSs23CustomStringConvertible", "tableView"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "LightContent"]
+- !private ["PSs9Equatable", "Plain"]
+- !private ["PSs9Equatable", "UIBarButtonItem"]
+- !private ["PSs9Equatable", "UIBarButtonItemStyle"]
+- !private ["PSs9Equatable", "UIImage"]
+- !private ["PSs9Equatable", "UIStatusBarStyle"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "addGestureRecognizer"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "leftBarButtonItem"]
+- !private ["PSs9Equatable", "navigationItem"]
+- ["PSs9Equatable", "numberOfSectionsInTableView"]
+- !private ["PSs9Equatable", "panGestureRecognizer"]
+- ["PSs9Equatable", "preferredStatusBarStyle"]
+- !private ["PSs9Equatable", "revealViewController"]
+- ["PSs9Equatable", "tableView"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "LightContent"]
+- !private ["PSs8Hashable", "Plain"]
+- !private ["PSs8Hashable", "UIBarButtonItem"]
+- !private ["PSs8Hashable", "UIBarButtonItemStyle"]
+- !private ["PSs8Hashable", "UIImage"]
+- !private ["PSs8Hashable", "UIStatusBarStyle"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "addGestureRecognizer"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "leftBarButtonItem"]
+- !private ["PSs8Hashable", "navigationItem"]
+- ["PSs8Hashable", "numberOfSectionsInTableView"]
+- !private ["PSs8Hashable", "panGestureRecognizer"]
+- ["PSs8Hashable", "preferredStatusBarStyle"]
+- !private ["PSs8Hashable", "revealViewController"]
+- ["PSs8Hashable", "tableView"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["PSo8NSCoding", "UIBarButtonItem"]
+- !private ["PSo8NSCoding", "UIBarButtonItemStyle"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "UIStatusBarStyle"]
+- !private ["PSo8NSCoding", "addGestureRecognizer"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "leftBarButtonItem"]
+- !private ["PSo8NSCoding", "navigationItem"]
+- ["PSo8NSCoding", "numberOfSectionsInTableView"]
+- !private ["PSo8NSCoding", "panGestureRecognizer"]
+- ["PSo8NSCoding", "preferredStatusBarStyle"]
+- !private ["PSo8NSCoding", "revealViewController"]
+- ["PSo8NSCoding", "tableView"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "UIBarButtonItem"]
+- !private ["PSo26NSExtensionRequestHandling", "UIBarButtonItemStyle"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- !private ["PSo26NSExtensionRequestHandling", "UIStatusBarStyle"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationItem"]
+- ["PSo26NSExtensionRequestHandling", "numberOfSectionsInTableView"]
+- !private ["PSo26NSExtensionRequestHandling", "panGestureRecognizer"]
+- ["PSo26NSExtensionRequestHandling", "preferredStatusBarStyle"]
+- !private ["PSo26NSExtensionRequestHandling", "revealViewController"]
+- ["PSo26NSExtensionRequestHandling", "tableView"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "UIBarButtonItem"]
+- !private ["CSo8NSObject", "UIBarButtonItemStyle"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIStatusBarStyle"]
+- ["CSo8NSObject", "UITableView"]
+- !private ["CSo8NSObject", "addGestureRecognizer"]
+- !private ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "leftBarButtonItem"]
+- !private ["CSo8NSObject", "navigationItem"]
+- ["CSo8NSObject", "numberOfSectionsInTableView"]
+- !private ["CSo8NSObject", "panGestureRecognizer"]
+- ["CSo8NSObject", "preferredStatusBarStyle"]
+- !private ["CSo8NSObject", "revealViewController"]
+- ["CSo8NSObject", "tableView"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIBarButtonItem"]
+- !private ["PSo16NSObjectProtocol", "UIBarButtonItemStyle"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "UIStatusBarStyle"]
+- !private ["PSo16NSObjectProtocol", "addGestureRecognizer"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "leftBarButtonItem"]
+- !private ["PSo16NSObjectProtocol", "navigationItem"]
+- ["PSo16NSObjectProtocol", "numberOfSectionsInTableView"]
+- !private ["PSo16NSObjectProtocol", "panGestureRecognizer"]
+- ["PSo16NSObjectProtocol", "preferredStatusBarStyle"]
+- !private ["PSo16NSObjectProtocol", "revealViewController"]
+- ["PSo16NSObjectProtocol", "tableView"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Sq", "deinit"]
+- ["C12Tudo_On_Line9Promocoes", "Int"]
+- !private ["C12Tudo_On_Line9Promocoes", "UIBarButtonItem"]
+- !private ["C12Tudo_On_Line9Promocoes", "UIBarButtonItemStyle"]
+- !private ["C12Tudo_On_Line9Promocoes", "UIImage"]
+- ["C12Tudo_On_Line9Promocoes", "UIStatusBarStyle"]
+- ["C12Tudo_On_Line9Promocoes", "UITableView"]
+- ["C12Tudo_On_Line9Promocoes", "deinit"]
+- ["C12Tudo_On_Line9Promocoes", "didReceiveMemoryWarning"]
+- ["C12Tudo_On_Line9Promocoes", "init"]
+- !private ["C12Tudo_On_Line9Promocoes", "navigationItem"]
+- ["C12Tudo_On_Line9Promocoes", "numberOfSectionsInTableView"]
+- ["C12Tudo_On_Line9Promocoes", "preferredStatusBarStyle"]
+- !private ["C12Tudo_On_Line9Promocoes", "revealViewController"]
+- ["C12Tudo_On_Line9Promocoes", "tableView"]
+- !private ["C12Tudo_On_Line9Promocoes", "view"]
+- ["C12Tudo_On_Line9Promocoes", "viewDidLoad"]
+- !private ["PSs16RawRepresentable", "LightContent"]
+- !private ["PSs16RawRepresentable", "Plain"]
+- !private ["CSo22SWRevealViewController", "deinit"]
+- !private ["CSo22SWRevealViewController", "panGestureRecognizer"]
+- !private ["V10ObjectiveC8Selector", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "addGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "addGestureRecognizer"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo21UIAppearanceContainer", "UIBarButtonItem"]
+- !private ["PSo21UIAppearanceContainer", "UIBarButtonItemStyle"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "UIStatusBarStyle"]
+- !private ["PSo21UIAppearanceContainer", "addGestureRecognizer"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "navigationItem"]
+- ["PSo21UIAppearanceContainer", "numberOfSectionsInTableView"]
+- !private ["PSo21UIAppearanceContainer", "panGestureRecognizer"]
+- ["PSo21UIAppearanceContainer", "preferredStatusBarStyle"]
+- !private ["PSo21UIAppearanceContainer", "revealViewController"]
+- ["PSo21UIAppearanceContainer", "tableView"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo15UIBarButtonItem", "init"]
+- !private ["OSC20UIBarButtonItemStyle", "Plain"]
+- !private ["CSo9UIBarItem", "init"]
+- !private ["PSo18UIContentContainer", "UIBarButtonItem"]
+- !private ["PSo18UIContentContainer", "UIBarButtonItemStyle"]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- !private ["PSo18UIContentContainer", "UIStatusBarStyle"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "navigationItem"]
+- ["PSo18UIContentContainer", "numberOfSectionsInTableView"]
+- !private ["PSo18UIContentContainer", "panGestureRecognizer"]
+- ["PSo18UIContentContainer", "preferredStatusBarStyle"]
+- !private ["PSo18UIContentContainer", "revealViewController"]
+- ["PSo18UIContentContainer", "tableView"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "addGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "UIBarButtonItem"]
+- !private ["PSo18UIFocusEnvironment", "UIBarButtonItemStyle"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "UIStatusBarStyle"]
+- !private ["PSo18UIFocusEnvironment", "addGestureRecognizer"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "navigationItem"]
+- ["PSo18UIFocusEnvironment", "numberOfSectionsInTableView"]
+- !private ["PSo18UIFocusEnvironment", "panGestureRecognizer"]
+- ["PSo18UIFocusEnvironment", "preferredStatusBarStyle"]
+- !private ["PSo18UIFocusEnvironment", "revealViewController"]
+- ["PSo18UIFocusEnvironment", "tableView"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo16UINavigationItem", "leftBarButtonItem"]
+- ["CSo11UIResponder", "Int"]
+- !private ["CSo11UIResponder", "UIBarButtonItem"]
+- !private ["CSo11UIResponder", "UIBarButtonItemStyle"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIStatusBarStyle"]
+- ["CSo11UIResponder", "UITableView"]
+- !private ["CSo11UIResponder", "addGestureRecognizer"]
+- !private ["CSo11UIResponder", "deinit"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "navigationItem"]
+- ["CSo11UIResponder", "numberOfSectionsInTableView"]
+- !private ["CSo11UIResponder", "panGestureRecognizer"]
+- ["CSo11UIResponder", "preferredStatusBarStyle"]
+- !private ["CSo11UIResponder", "revealViewController"]
+- ["CSo11UIResponder", "tableView"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo20UIScrollViewDelegate", "UIBarButtonItem"]
+- !private ["PSo20UIScrollViewDelegate", "UIBarButtonItemStyle"]
+- !private ["PSo20UIScrollViewDelegate", "UIImage"]
+- !private ["PSo20UIScrollViewDelegate", "UIStatusBarStyle"]
+- ["PSo20UIScrollViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "navigationItem"]
+- ["PSo20UIScrollViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo20UIScrollViewDelegate", "preferredStatusBarStyle"]
+- !private ["PSo20UIScrollViewDelegate", "revealViewController"]
+- ["PSo20UIScrollViewDelegate", "tableView"]
+- !private ["PSo20UIScrollViewDelegate", "view"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "UIBarButtonItem"]
+- !private ["PSo16UIStateRestoring", "UIBarButtonItemStyle"]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- !private ["PSo16UIStateRestoring", "UIStatusBarStyle"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "navigationItem"]
+- ["PSo16UIStateRestoring", "numberOfSectionsInTableView"]
+- !private ["PSo16UIStateRestoring", "panGestureRecognizer"]
+- ["PSo16UIStateRestoring", "preferredStatusBarStyle"]
+- !private ["PSo16UIStateRestoring", "revealViewController"]
+- ["PSo16UIStateRestoring", "tableView"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["OSC16UIStatusBarStyle", "LightContent"]
+- ["CSo21UITableViewController", "Int"]
+- !private ["CSo21UITableViewController", "UIBarButtonItem"]
+- !private ["CSo21UITableViewController", "UIBarButtonItemStyle"]
+- !private ["CSo21UITableViewController", "UIImage"]
+- ["CSo21UITableViewController", "UIStatusBarStyle"]
+- ["CSo21UITableViewController", "UITableView"]
+- ["CSo21UITableViewController", "didReceiveMemoryWarning"]
+- ["CSo21UITableViewController", "init"]
+- !private ["CSo21UITableViewController", "navigationItem"]
+- ["CSo21UITableViewController", "numberOfSectionsInTableView"]
+- ["CSo21UITableViewController", "preferredStatusBarStyle"]
+- !private ["CSo21UITableViewController", "revealViewController"]
+- ["CSo21UITableViewController", "tableView"]
+- !private ["CSo21UITableViewController", "view"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "UIBarButtonItem"]
+- !private ["PSo21UITableViewDataSource", "UIBarButtonItemStyle"]
+- !private ["PSo21UITableViewDataSource", "UIImage"]
+- !private ["PSo21UITableViewDataSource", "UIStatusBarStyle"]
+- ["PSo21UITableViewDataSource", "didReceiveMemoryWarning"]
+- ["PSo21UITableViewDataSource", "init"]
+- !private ["PSo21UITableViewDataSource", "navigationItem"]
+- ["PSo21UITableViewDataSource", "numberOfSectionsInTableView"]
+- ["PSo21UITableViewDataSource", "preferredStatusBarStyle"]
+- !private ["PSo21UITableViewDataSource", "revealViewController"]
+- ["PSo21UITableViewDataSource", "tableView"]
+- !private ["PSo21UITableViewDataSource", "view"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "UIBarButtonItem"]
+- !private ["PSo19UITableViewDelegate", "UIBarButtonItemStyle"]
+- !private ["PSo19UITableViewDelegate", "UIImage"]
+- !private ["PSo19UITableViewDelegate", "UIStatusBarStyle"]
+- ["PSo19UITableViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo19UITableViewDelegate", "init"]
+- !private ["PSo19UITableViewDelegate", "navigationItem"]
+- ["PSo19UITableViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo19UITableViewDelegate", "preferredStatusBarStyle"]
+- !private ["PSo19UITableViewDelegate", "revealViewController"]
+- ["PSo19UITableViewDelegate", "tableView"]
+- !private ["PSo19UITableViewDelegate", "view"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- !private ["PSo18UITraitEnvironment", "UIBarButtonItem"]
+- !private ["PSo18UITraitEnvironment", "UIBarButtonItemStyle"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "UIStatusBarStyle"]
+- !private ["PSo18UITraitEnvironment", "addGestureRecognizer"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "navigationItem"]
+- ["PSo18UITraitEnvironment", "numberOfSectionsInTableView"]
+- !private ["PSo18UITraitEnvironment", "panGestureRecognizer"]
+- ["PSo18UITraitEnvironment", "preferredStatusBarStyle"]
+- !private ["PSo18UITraitEnvironment", "revealViewController"]
+- ["PSo18UITraitEnvironment", "tableView"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addGestureRecognizer"]
+- ["CSo16UIViewController", "Int"]
+- !private ["CSo16UIViewController", "UIBarButtonItem"]
+- !private ["CSo16UIViewController", "UIBarButtonItemStyle"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UIStatusBarStyle"]
+- ["CSo16UIViewController", "UITableView"]
+- !private ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "navigationItem"]
+- ["CSo16UIViewController", "numberOfSectionsInTableView"]
+- !private ["CSo16UIViewController", "panGestureRecognizer"]
+- ["CSo16UIViewController", "preferredStatusBarStyle"]
+- !private ["CSo16UIViewController", "revealViewController"]
+- ["CSo16UIViewController", "tableView"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs24_ImageLiteralConvertible", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "addGestureRecognizer"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "SQ"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- "C12Tudo_On_Line9Promocoes"
+- !private "PSs16RawRepresentable"
+- !private "CSo22SWRevealViewController"
+- !private "V10ObjectiveC8Selector"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo15UIBarButtonItem"
+- !private "OSC20UIBarButtonItemStyle"
+- !private "CSo9UIBarItem"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo7UIImage"
+- !private "CSo16UINavigationItem"
+- "CSo11UIResponder"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- !private "OSC16UIStatusBarStyle"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs24_ImageLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/arm64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "d1235d6ca75086c7f904fb266ae474bc"

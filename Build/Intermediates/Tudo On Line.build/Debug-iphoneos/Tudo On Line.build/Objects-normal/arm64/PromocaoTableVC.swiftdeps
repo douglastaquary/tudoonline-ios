@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PromocaoTableVC"
+provides-nominal:
+- "C12Tudo_On_Line15PromocaoTableVC"
+provides-member:
+- ["C12Tudo_On_Line15PromocaoTableVC", ""]
+provides-dynamic-lookup:
+- "numberOfSectionsInTableView"
+- "didReceiveMemoryWarning"
+- "tableView"
+- "tableView"
+- "viewDidLoad"
+depends-top-level:
+- "UITableViewController"
+- "UITableView"
+- "NSIndexPath"
+- "UITableViewCell"
+- !private "StringLiteralType"
+- "PromocaoTableVC"
+- "Int"
+- !private "UIImage"
+depends-member:
+- !private ["PSs9AnyObject", "UIImage"]
+- !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- !private ["PSs9AnyObject", "image"]
+- !private ["PSs9AnyObject", "imageView"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "numberOfSectionsInTableView"]
+- ["PSs9AnyObject", "tableView"]
+- !private ["PSs9AnyObject", "text"]
+- !private ["PSs9AnyObject", "textLabel"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "UIImage"]
+- !private ["PSs11CVarArgType", "dequeueReusableCellWithIdentifier"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["PSs11CVarArgType", "image"]
+- !private ["PSs11CVarArgType", "imageView"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "numberOfSectionsInTableView"]
+- ["PSs11CVarArgType", "tableView"]
+- !private ["PSs11CVarArgType", "text"]
+- !private ["PSs11CVarArgType", "textLabel"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "UIImage"]
+- !private ["PSs23CustomStringConvertible", "dequeueReusableCellWithIdentifier"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["PSs23CustomStringConvertible", "image"]
+- !private ["PSs23CustomStringConvertible", "imageView"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "numberOfSectionsInTableView"]
+- ["PSs23CustomStringConvertible", "tableView"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- !private ["PSs23CustomStringConvertible", "textLabel"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "UIImage"]
+- !private ["PSs9Equatable", "dequeueReusableCellWithIdentifier"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- !private ["PSs9Equatable", "image"]
+- !private ["PSs9Equatable", "imageView"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "numberOfSectionsInTableView"]
+- ["PSs9Equatable", "tableView"]
+- !private ["PSs9Equatable", "text"]
+- !private ["PSs9Equatable", "textLabel"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "UIImage"]
+- !private ["PSs8Hashable", "dequeueReusableCellWithIdentifier"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- !private ["PSs8Hashable", "image"]
+- !private ["PSs8Hashable", "imageView"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "numberOfSectionsInTableView"]
+- ["PSs8Hashable", "tableView"]
+- !private ["PSs8Hashable", "text"]
+- !private ["PSs8Hashable", "textLabel"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "dequeueReusableCellWithIdentifier"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "imageView"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "numberOfSectionsInTableView"]
+- ["PSo8NSCoding", "tableView"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "textLabel"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "numberOfSectionsInTableView"]
+- ["PSo26NSExtensionRequestHandling", "tableView"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "NSIndexPath"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "UITableViewCell"]
+- !private ["CSo8NSObject", "dequeueReusableCellWithIdentifier"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "image"]
+- !private ["CSo8NSObject", "imageView"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "numberOfSectionsInTableView"]
+- ["CSo8NSObject", "tableView"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "textLabel"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "dequeueReusableCellWithIdentifier"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "imageView"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "numberOfSectionsInTableView"]
+- ["PSo16NSObjectProtocol", "tableView"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "textLabel"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Sq", "deinit"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "Int"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "NSIndexPath"]
+- !private ["C12Tudo_On_Line15PromocaoTableVC", "UIImage"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "UITableView"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "UITableViewCell"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "deinit"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "didReceiveMemoryWarning"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "init"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "numberOfSectionsInTableView"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "tableView"]
+- ["C12Tudo_On_Line15PromocaoTableVC", "viewDidLoad"]
+- !private ["PSo29UIAccessibilityIdentification", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "imageView"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo29UIAccessibilityIdentification", "textLabel"]
+- !private ["PSo12UIAppearance", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo12UIAppearance", "imageView"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo12UIAppearance", "textLabel"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "dequeueReusableCellWithIdentifier"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- !private ["PSo21UIAppearanceContainer", "imageView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "numberOfSectionsInTableView"]
+- ["PSo21UIAppearanceContainer", "tableView"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "textLabel"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "numberOfSectionsInTableView"]
+- ["PSo18UIContentContainer", "tableView"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo17UICoordinateSpace", "imageView"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo17UICoordinateSpace", "textLabel"]
+- !private ["PSo13UIDynamicItem", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo13UIDynamicItem", "imageView"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo13UIDynamicItem", "textLabel"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- !private ["PSo18UIFocusEnvironment", "imageView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "numberOfSectionsInTableView"]
+- ["PSo18UIFocusEnvironment", "tableView"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "textLabel"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "imageView"]
+- !private ["PSo27UIGestureRecognizerDelegate", "textLabel"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "NSIndexPath"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "UITableViewCell"]
+- !private ["CSo11UIResponder", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "image"]
+- !private ["CSo11UIResponder", "imageView"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "numberOfSectionsInTableView"]
+- ["CSo11UIResponder", "tableView"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "textLabel"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["CSo12UIScrollView", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo20UIScrollViewDelegate", "UIImage"]
+- ["PSo20UIScrollViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- ["PSo20UIScrollViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo20UIScrollViewDelegate", "tableView"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "numberOfSectionsInTableView"]
+- ["PSo16UIStateRestoring", "tableView"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo15UITableViewCell", "imageView"]
+- !private ["CSo15UITableViewCell", "textLabel"]
+- ["CSo21UITableViewController", "Int"]
+- ["CSo21UITableViewController", "NSIndexPath"]
+- !private ["CSo21UITableViewController", "UIImage"]
+- ["CSo21UITableViewController", "UITableView"]
+- ["CSo21UITableViewController", "UITableViewCell"]
+- ["CSo21UITableViewController", "didReceiveMemoryWarning"]
+- ["CSo21UITableViewController", "init"]
+- ["CSo21UITableViewController", "numberOfSectionsInTableView"]
+- ["CSo21UITableViewController", "tableView"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "UIImage"]
+- ["PSo21UITableViewDataSource", "didReceiveMemoryWarning"]
+- ["PSo21UITableViewDataSource", "init"]
+- ["PSo21UITableViewDataSource", "numberOfSectionsInTableView"]
+- ["PSo21UITableViewDataSource", "tableView"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "UIImage"]
+- ["PSo19UITableViewDelegate", "didReceiveMemoryWarning"]
+- ["PSo19UITableViewDelegate", "init"]
+- ["PSo19UITableViewDelegate", "numberOfSectionsInTableView"]
+- ["PSo19UITableViewDelegate", "tableView"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- !private ["PSo18UITraitEnvironment", "imageView"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "numberOfSectionsInTableView"]
+- ["PSo18UITraitEnvironment", "tableView"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "textLabel"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo6UIView", "image"]
+- !private ["CSo6UIView", "imageView"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo6UIView", "textLabel"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "NSIndexPath"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "UITableViewCell"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "numberOfSectionsInTableView"]
+- ["CSo16UIViewController", "tableView"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["PSs24_ImageLiteralConvertible", "init"]
+- !private ["PSs12_Reflectable", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs12_Reflectable", "image"]
+- !private ["PSs12_Reflectable", "imageView"]
+- !private ["PSs12_Reflectable", "text"]
+- !private ["PSs12_Reflectable", "textLabel"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- "C12Tudo_On_Line15PromocaoTableVC"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UIImage"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITableView"
+- !private "CSo15UITableViewCell"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs24_ImageLiteralConvertible"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/arm64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "b088d536d68720a99d28dc5466083bfb"

@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "1934b950be9d3f714cc4a03e509ddb2b"
+build_time: [500677270, 585918000]
+inputs:
+  "/iOS Projects/Swift/Tudo On Line/Pods/PagingMenuController/Pod/Classes/MenuView.swift": [500587615, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/PagingMenuController/Pod/Classes/PagingMenuController.swift": [500587615, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/PagingMenuController/Pod/Classes/MenuItemView.swift": [500587615, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/PagingMenuController/Pod/Classes/PagingMenuOptions.swift": [500587615, 0]

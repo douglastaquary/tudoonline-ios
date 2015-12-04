@@ -1,0 +1,10 @@
+framework module TFTransparentNavigationBar {
+  umbrella header "TFTransparentNavigationBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module TFTransparentNavigationBar.__Swift {
+    exclude header "TFTransparentNavigationBar-Swift.h"
+}

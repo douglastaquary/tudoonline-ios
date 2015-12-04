@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "33cc8f2a7f782bd35ced7082f7f9a21d"
+build_time: [500674507, 382666000]
+inputs:
+  "/iOS Projects/Swift/Tudo On Line/Tudo On Line WatchKit Extension/ExtensionDelegate.swift": [499562732, 0]
+  "/iOS Projects/Swift/Tudo On Line/Tudo On Line WatchKit Extension/NotificationController.swift": [499562732, 0]
+  "/iOS Projects/Swift/Tudo On Line/Tudo On Line WatchKit Extension/InterfaceController.swift": [499562732, 0]

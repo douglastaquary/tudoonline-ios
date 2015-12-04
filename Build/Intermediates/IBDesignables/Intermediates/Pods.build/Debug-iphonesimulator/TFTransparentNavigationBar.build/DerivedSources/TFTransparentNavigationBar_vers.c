@@ -1,0 +1,1 @@
+ const unsigned char TFTransparentNavigationBarVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:TFTransparentNavigationBar  PROJECT:Pods-1" "\n"; const double TFTransparentNavigationBarVersionNumber __attribute__ ((used)) = (double)1.;

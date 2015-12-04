@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "9aefbb3f731444b9cefdbbe3da849d8e"
+build_time: [500694161, 582907000]
+inputs:
+  "/iOS Projects/Swift/Tudo On Line/Pods/TFTransparentNavigationBar/Pod/Classes/TFBackwardAnimator.swift": [500587626, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/TFTransparentNavigationBar/Pod/Classes/TFForwardAnimator.swift": [500587626, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/TFTransparentNavigationBar/Pod/Classes/CGRect+Tools.swift": [500587626, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/TFTransparentNavigationBar/Pod/Classes/TFNavigationController.swift": [500587626, 0]
+  "/iOS Projects/Swift/Tudo On Line/Pods/TFTransparentNavigationBar/Pod/Classes/TFNavigationBarAnimator.swift": [500587626, 0]

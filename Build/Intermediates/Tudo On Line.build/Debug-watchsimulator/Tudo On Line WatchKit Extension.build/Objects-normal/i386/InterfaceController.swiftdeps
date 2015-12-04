@@ -1,0 +1,85 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InterfaceController"
+provides-nominal:
+- "C31Tudo_On_Line_WatchKit_Extension19InterfaceController"
+provides-member:
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", ""]
+provides-dynamic-lookup:
+- "willActivate"
+- "didDeactivate"
+- "awakeWithContext"
+depends-top-level:
+- "InterfaceController"
+- "WKInterfaceController"
+- "AnyObject"
+depends-member:
+- ["PSs9AnyObject", "awakeWithContext"]
+- ["PSs9AnyObject", "didDeactivate"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "willActivate"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "awakeWithContext"]
+- ["PSs11CVarArgType", "didDeactivate"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "willActivate"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "awakeWithContext"]
+- ["PSs23CustomStringConvertible", "didDeactivate"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "willActivate"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "awakeWithContext"]
+- ["PSs9Equatable", "didDeactivate"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "willActivate"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "awakeWithContext"]
+- ["PSs8Hashable", "didDeactivate"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "willActivate"]
+- ["PSs8Hashable", ""]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "AnyObject"]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "awakeWithContext"]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "deinit"]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "didDeactivate"]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "init"]
+- ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", "willActivate"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "awakeWithContext"]
+- ["CSo8NSObject", "didDeactivate"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "willActivate"]
+- ["PSo16NSObjectProtocol", "awakeWithContext"]
+- ["PSo16NSObjectProtocol", "didDeactivate"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "willActivate"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo21WKInterfaceController", "AnyObject"]
+- ["CSo21WKInterfaceController", "awakeWithContext"]
+- ["CSo21WKInterfaceController", "didDeactivate"]
+- ["CSo21WKInterfaceController", "init"]
+- ["CSo21WKInterfaceController", "willActivate"]
+- ["CSo21WKInterfaceController", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C31Tudo_On_Line_WatchKit_Extension19InterfaceController"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo21WKInterfaceController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/WatchKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/i386/CoreLocation.swiftmodule"
+interface-hash: "2ea4f64ed19ab66426a2c41cec1ba243"

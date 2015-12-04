@@ -1,0 +1,664 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomView"
+provides-nominal:
+- "C12Tudo_On_Line10CustomView"
+provides-member:
+- ["C12Tudo_On_Line10CustomView", ""]
+provides-dynamic-lookup:
+- "strokeWidth"
+- "imageView"
+- "image"
+- "ringLayer"
+- "prepareForInterfaceBuilder"
+- "maskLayer"
+- "strokeColor"
+- "layoutSubviews"
+depends-top-level:
+- !private "!="
+- "CGRect"
+- !private "UIBezierPath"
+- !private "=="
+- "UIView"
+- "CustomView"
+- "CAShapeLayer"
+- !private "+"
+- "UIColor"
+- "NSCoder"
+- !private "BooleanLiteralType"
+- !private "CGRectInset"
+- "UIImage"
+- "UIImageView"
+- "CGFloat"
+depends-member:
+- !private ["PSs9AnyObject", "CAShapeLayer"]
+- !private ["PSs9AnyObject", "CGColor"]
+- !private ["PSs9AnyObject", "CGPath"]
+- !private ["PSs9AnyObject", "CGRectInset"]
+- !private ["PSs9AnyObject", "UIBezierPath"]
+- !private ["PSs9AnyObject", "UIColor"]
+- !private ["PSs9AnyObject", "UIImageView"]
+- !private ["PSs9AnyObject", "addSubview"]
+- !private ["PSs9AnyObject", "backgroundColor"]
+- !private ["PSs9AnyObject", "bounds"]
+- !private ["PSs9AnyObject", "clearColor"]
+- !private ["PSs9AnyObject", "fillColor"]
+- !private ["PSs9AnyObject", "frame"]
+- ["PSs9AnyObject", "image"]
+- ["PSs9AnyObject", "imageView"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "insertSublayer"]
+- !private ["PSs9AnyObject", "layer"]
+- ["PSs9AnyObject", "layoutSubviews"]
+- ["PSs9AnyObject", "lightGrayColor"]
+- !private ["PSs9AnyObject", "mask"]
+- ["PSs9AnyObject", "maskLayer"]
+- !private ["PSs9AnyObject", "masksToBounds"]
+- !private ["PSs9AnyObject", "path"]
+- ["PSs9AnyObject", "prepareForInterfaceBuilder"]
+- ["PSs9AnyObject", "ringLayer"]
+- ["PSs9AnyObject", "strokeColor"]
+- ["PSs9AnyObject", "strokeWidth"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["CSo7CALayer", "bounds"]
+- !private ["CSo7CALayer", "deinit"]
+- !private ["CSo7CALayer", "fillColor"]
+- !private ["CSo7CALayer", "frame"]
+- !private ["CSo7CALayer", "init"]
+- !private ["CSo7CALayer", "insertSublayer"]
+- !private ["CSo7CALayer", "mask"]
+- !private ["CSo7CALayer", "masksToBounds"]
+- !private ["CSo7CALayer", "path"]
+- !private ["PSo13CAMediaTiming", "bounds"]
+- !private ["PSo13CAMediaTiming", "fillColor"]
+- !private ["PSo13CAMediaTiming", "frame"]
+- !private ["PSo13CAMediaTiming", "init"]
+- !private ["PSo13CAMediaTiming", "insertSublayer"]
+- !private ["PSo13CAMediaTiming", "mask"]
+- !private ["PSo13CAMediaTiming", "masksToBounds"]
+- !private ["PSo13CAMediaTiming", "path"]
+- !private ["CSo12CAShapeLayer", "deinit"]
+- !private ["CSo12CAShapeLayer", "fillColor"]
+- !private ["CSo12CAShapeLayer", "frame"]
+- !private ["CSo12CAShapeLayer", "init"]
+- !private ["CSo12CAShapeLayer", "path"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["PSs11CVarArgType", "CAShapeLayer"]
+- !private ["PSs11CVarArgType", "CGColor"]
+- !private ["PSs11CVarArgType", "CGPath"]
+- !private ["PSs11CVarArgType", "CGRectInset"]
+- !private ["PSs11CVarArgType", "UIBezierPath"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- !private ["PSs11CVarArgType", "UIImageView"]
+- !private ["PSs11CVarArgType", "addSubview"]
+- !private ["PSs11CVarArgType", "backgroundColor"]
+- !private ["PSs11CVarArgType", "bounds"]
+- !private ["PSs11CVarArgType", "clearColor"]
+- !private ["PSs11CVarArgType", "fillColor"]
+- !private ["PSs11CVarArgType", "frame"]
+- ["PSs11CVarArgType", "image"]
+- ["PSs11CVarArgType", "imageView"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "insertSublayer"]
+- !private ["PSs11CVarArgType", "layer"]
+- ["PSs11CVarArgType", "layoutSubviews"]
+- ["PSs11CVarArgType", "lightGrayColor"]
+- !private ["PSs11CVarArgType", "mask"]
+- ["PSs11CVarArgType", "maskLayer"]
+- !private ["PSs11CVarArgType", "masksToBounds"]
+- !private ["PSs11CVarArgType", "path"]
+- ["PSs11CVarArgType", "prepareForInterfaceBuilder"]
+- ["PSs11CVarArgType", "ringLayer"]
+- ["PSs11CVarArgType", "strokeColor"]
+- ["PSs11CVarArgType", "strokeWidth"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "CAShapeLayer"]
+- !private ["PSs23CustomStringConvertible", "CGColor"]
+- !private ["PSs23CustomStringConvertible", "CGPath"]
+- !private ["PSs23CustomStringConvertible", "CGRectInset"]
+- !private ["PSs23CustomStringConvertible", "UIBezierPath"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- !private ["PSs23CustomStringConvertible", "UIImageView"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "addSubview"]
+- !private ["PSs23CustomStringConvertible", "backgroundColor"]
+- !private ["PSs23CustomStringConvertible", "bounds"]
+- !private ["PSs23CustomStringConvertible", "clearColor"]
+- !private ["PSs23CustomStringConvertible", "fillColor"]
+- !private ["PSs23CustomStringConvertible", "frame"]
+- ["PSs23CustomStringConvertible", "image"]
+- ["PSs23CustomStringConvertible", "imageView"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "insertSublayer"]
+- !private ["PSs23CustomStringConvertible", "layer"]
+- ["PSs23CustomStringConvertible", "layoutSubviews"]
+- ["PSs23CustomStringConvertible", "lightGrayColor"]
+- !private ["PSs23CustomStringConvertible", "mask"]
+- ["PSs23CustomStringConvertible", "maskLayer"]
+- !private ["PSs23CustomStringConvertible", "masksToBounds"]
+- !private ["PSs23CustomStringConvertible", "path"]
+- ["PSs23CustomStringConvertible", "prepareForInterfaceBuilder"]
+- ["PSs23CustomStringConvertible", "ringLayer"]
+- ["PSs23CustomStringConvertible", "strokeColor"]
+- ["PSs23CustomStringConvertible", "strokeWidth"]
+- ["PSs23CustomStringConvertible", ""]
+- ["C12Tudo_On_Line10CustomView", "CAShapeLayer"]
+- ["C12Tudo_On_Line10CustomView", "CGFloat"]
+- ["C12Tudo_On_Line10CustomView", "CGRect"]
+- !private ["C12Tudo_On_Line10CustomView", "CGRectInset"]
+- ["C12Tudo_On_Line10CustomView", "NSCoder"]
+- !private ["C12Tudo_On_Line10CustomView", "UIBezierPath"]
+- ["C12Tudo_On_Line10CustomView", "UIColor"]
+- ["C12Tudo_On_Line10CustomView", "UIImage"]
+- ["C12Tudo_On_Line10CustomView", "UIImageView"]
+- !private ["C12Tudo_On_Line10CustomView", "addSubview"]
+- !private ["C12Tudo_On_Line10CustomView", "backgroundColor"]
+- !private ["C12Tudo_On_Line10CustomView", "bounds"]
+- ["C12Tudo_On_Line10CustomView", "deinit"]
+- ["C12Tudo_On_Line10CustomView", "image"]
+- ["C12Tudo_On_Line10CustomView", "imageView"]
+- ["C12Tudo_On_Line10CustomView", "init"]
+- !private ["C12Tudo_On_Line10CustomView", "layer"]
+- ["C12Tudo_On_Line10CustomView", "layoutSubviews"]
+- ["C12Tudo_On_Line10CustomView", "maskLayer"]
+- ["C12Tudo_On_Line10CustomView", "prepareForInterfaceBuilder"]
+- ["C12Tudo_On_Line10CustomView", "ringLayer"]
+- ["C12Tudo_On_Line10CustomView", "strokeColor"]
+- ["C12Tudo_On_Line10CustomView", "strokeWidth"]
+- !private ["PSs9Equatable", "CAShapeLayer"]
+- !private ["PSs9Equatable", "CGColor"]
+- !private ["PSs9Equatable", "CGPath"]
+- !private ["PSs9Equatable", "CGRectInset"]
+- !private ["PSs9Equatable", "UIBezierPath"]
+- !private ["PSs9Equatable", "UIColor"]
+- !private ["PSs9Equatable", "UIImageView"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "addSubview"]
+- !private ["PSs9Equatable", "backgroundColor"]
+- !private ["PSs9Equatable", "bounds"]
+- !private ["PSs9Equatable", "clearColor"]
+- !private ["PSs9Equatable", "fillColor"]
+- !private ["PSs9Equatable", "frame"]
+- ["PSs9Equatable", "image"]
+- ["PSs9Equatable", "imageView"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "insertSublayer"]
+- !private ["PSs9Equatable", "layer"]
+- ["PSs9Equatable", "layoutSubviews"]
+- ["PSs9Equatable", "lightGrayColor"]
+- !private ["PSs9Equatable", "mask"]
+- ["PSs9Equatable", "maskLayer"]
+- !private ["PSs9Equatable", "masksToBounds"]
+- !private ["PSs9Equatable", "path"]
+- ["PSs9Equatable", "prepareForInterfaceBuilder"]
+- ["PSs9Equatable", "ringLayer"]
+- ["PSs9Equatable", "strokeColor"]
+- ["PSs9Equatable", "strokeWidth"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "CAShapeLayer"]
+- !private ["PSs8Hashable", "CGColor"]
+- !private ["PSs8Hashable", "CGPath"]
+- !private ["PSs8Hashable", "CGRectInset"]
+- !private ["PSs8Hashable", "UIBezierPath"]
+- !private ["PSs8Hashable", "UIColor"]
+- !private ["PSs8Hashable", "UIImageView"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "addSubview"]
+- !private ["PSs8Hashable", "backgroundColor"]
+- !private ["PSs8Hashable", "bounds"]
+- !private ["PSs8Hashable", "clearColor"]
+- !private ["PSs8Hashable", "fillColor"]
+- !private ["PSs8Hashable", "frame"]
+- ["PSs8Hashable", "image"]
+- ["PSs8Hashable", "imageView"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "insertSublayer"]
+- !private ["PSs8Hashable", "layer"]
+- ["PSs8Hashable", "layoutSubviews"]
+- ["PSs8Hashable", "lightGrayColor"]
+- !private ["PSs8Hashable", "mask"]
+- ["PSs8Hashable", "maskLayer"]
+- !private ["PSs8Hashable", "masksToBounds"]
+- !private ["PSs8Hashable", "path"]
+- ["PSs8Hashable", "prepareForInterfaceBuilder"]
+- ["PSs8Hashable", "ringLayer"]
+- ["PSs8Hashable", "strokeColor"]
+- ["PSs8Hashable", "strokeWidth"]
+- ["PSs8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["PSo8NSCoding", "CAShapeLayer"]
+- !private ["PSo8NSCoding", "CGColor"]
+- !private ["PSo8NSCoding", "CGPath"]
+- !private ["PSo8NSCoding", "CGRectInset"]
+- !private ["PSo8NSCoding", "UIBezierPath"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UIImageView"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "clearColor"]
+- !private ["PSo8NSCoding", "fillColor"]
+- !private ["PSo8NSCoding", "frame"]
+- ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "imageView"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "insertSublayer"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", "layoutSubviews"]
+- ["PSo8NSCoding", "lightGrayColor"]
+- !private ["PSo8NSCoding", "mask"]
+- ["PSo8NSCoding", "maskLayer"]
+- !private ["PSo8NSCoding", "masksToBounds"]
+- !private ["PSo8NSCoding", "path"]
+- ["PSo8NSCoding", "prepareForInterfaceBuilder"]
+- ["PSo8NSCoding", "ringLayer"]
+- ["PSo8NSCoding", "strokeColor"]
+- ["PSo8NSCoding", "strokeWidth"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGColor"]
+- !private ["PSo9NSCopying", "CGPath"]
+- !private ["PSo9NSCopying", "clearColor"]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "lightGrayColor"]
+- ["CSo8NSObject", "CAShapeLayer"]
+- !private ["CSo8NSObject", "CGColor"]
+- ["CSo8NSObject", "CGFloat"]
+- !private ["CSo8NSObject", "CGPath"]
+- ["CSo8NSObject", "CGRect"]
+- !private ["CSo8NSObject", "CGRectInset"]
+- ["CSo8NSObject", "NSCoder"]
+- !private ["CSo8NSObject", "UIBezierPath"]
+- ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "clearColor"]
+- !private ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "fillColor"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "imageView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "insertSublayer"]
+- !private ["CSo8NSObject", "layer"]
+- ["CSo8NSObject", "layoutSubviews"]
+- ["CSo8NSObject", "lightGrayColor"]
+- !private ["CSo8NSObject", "mask"]
+- ["CSo8NSObject", "maskLayer"]
+- !private ["CSo8NSObject", "masksToBounds"]
+- !private ["CSo8NSObject", "path"]
+- ["CSo8NSObject", "prepareForInterfaceBuilder"]
+- ["CSo8NSObject", "ringLayer"]
+- ["CSo8NSObject", "strokeColor"]
+- ["CSo8NSObject", "strokeWidth"]
+- !private ["PSo16NSObjectProtocol", "CAShapeLayer"]
+- !private ["PSo16NSObjectProtocol", "CGColor"]
+- !private ["PSo16NSObjectProtocol", "CGPath"]
+- !private ["PSo16NSObjectProtocol", "CGRectInset"]
+- !private ["PSo16NSObjectProtocol", "UIBezierPath"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UIImageView"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "clearColor"]
+- !private ["PSo16NSObjectProtocol", "fillColor"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "imageView"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "insertSublayer"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", "layoutSubviews"]
+- ["PSo16NSObjectProtocol", "lightGrayColor"]
+- !private ["PSo16NSObjectProtocol", "mask"]
+- ["PSo16NSObjectProtocol", "maskLayer"]
+- !private ["PSo16NSObjectProtocol", "masksToBounds"]
+- !private ["PSo16NSObjectProtocol", "path"]
+- ["PSo16NSObjectProtocol", "prepareForInterfaceBuilder"]
+- ["PSo16NSObjectProtocol", "ringLayer"]
+- ["PSo16NSObjectProtocol", "strokeColor"]
+- ["PSo16NSObjectProtocol", "strokeWidth"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "CGColor"]
+- !private ["PSo14NSSecureCoding", "clearColor"]
+- ["PSo14NSSecureCoding", "lightGrayColor"]
+- !private ["Sq", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "CAShapeLayer"]
+- !private ["PSo29UIAccessibilityIdentification", "CGRectInset"]
+- !private ["PSo29UIAccessibilityIdentification", "UIBezierPath"]
+- !private ["PSo29UIAccessibilityIdentification", "UIColor"]
+- !private ["PSo29UIAccessibilityIdentification", "UIImageView"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- ["PSo29UIAccessibilityIdentification", "image"]
+- ["PSo29UIAccessibilityIdentification", "imageView"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- ["PSo29UIAccessibilityIdentification", "layoutSubviews"]
+- ["PSo29UIAccessibilityIdentification", "maskLayer"]
+- ["PSo29UIAccessibilityIdentification", "prepareForInterfaceBuilder"]
+- ["PSo29UIAccessibilityIdentification", "ringLayer"]
+- ["PSo29UIAccessibilityIdentification", "strokeColor"]
+- ["PSo29UIAccessibilityIdentification", "strokeWidth"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "CAShapeLayer"]
+- !private ["PSo12UIAppearance", "CGRectInset"]
+- !private ["PSo12UIAppearance", "UIBezierPath"]
+- !private ["PSo12UIAppearance", "UIColor"]
+- !private ["PSo12UIAppearance", "UIImageView"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo12UIAppearance", "image"]
+- ["PSo12UIAppearance", "imageView"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- ["PSo12UIAppearance", "layoutSubviews"]
+- ["PSo12UIAppearance", "maskLayer"]
+- ["PSo12UIAppearance", "prepareForInterfaceBuilder"]
+- ["PSo12UIAppearance", "ringLayer"]
+- ["PSo12UIAppearance", "strokeColor"]
+- ["PSo12UIAppearance", "strokeWidth"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "CAShapeLayer"]
+- !private ["PSo21UIAppearanceContainer", "CGRectInset"]
+- !private ["PSo21UIAppearanceContainer", "UIBezierPath"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UIImageView"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "imageView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", "layoutSubviews"]
+- ["PSo21UIAppearanceContainer", "maskLayer"]
+- ["PSo21UIAppearanceContainer", "prepareForInterfaceBuilder"]
+- ["PSo21UIAppearanceContainer", "ringLayer"]
+- ["PSo21UIAppearanceContainer", "strokeColor"]
+- ["PSo21UIAppearanceContainer", "strokeWidth"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo12UIBezierPath", "CGPath"]
+- !private ["CSo12UIBezierPath", "init"]
+- !private ["CSo7UIColor", "CGColor"]
+- !private ["CSo7UIColor", "clearColor"]
+- ["CSo7UIColor", "lightGrayColor"]
+- !private ["PSo17UICoordinateSpace", "CAShapeLayer"]
+- !private ["PSo17UICoordinateSpace", "CGRectInset"]
+- !private ["PSo17UICoordinateSpace", "UIBezierPath"]
+- !private ["PSo17UICoordinateSpace", "UIColor"]
+- !private ["PSo17UICoordinateSpace", "UIImageView"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- ["PSo17UICoordinateSpace", "image"]
+- ["PSo17UICoordinateSpace", "imageView"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- ["PSo17UICoordinateSpace", "layoutSubviews"]
+- ["PSo17UICoordinateSpace", "maskLayer"]
+- ["PSo17UICoordinateSpace", "prepareForInterfaceBuilder"]
+- ["PSo17UICoordinateSpace", "ringLayer"]
+- ["PSo17UICoordinateSpace", "strokeColor"]
+- ["PSo17UICoordinateSpace", "strokeWidth"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "CAShapeLayer"]
+- !private ["PSo13UIDynamicItem", "CGRectInset"]
+- !private ["PSo13UIDynamicItem", "UIBezierPath"]
+- !private ["PSo13UIDynamicItem", "UIColor"]
+- !private ["PSo13UIDynamicItem", "UIImageView"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo13UIDynamicItem", "image"]
+- ["PSo13UIDynamicItem", "imageView"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- ["PSo13UIDynamicItem", "layoutSubviews"]
+- ["PSo13UIDynamicItem", "maskLayer"]
+- ["PSo13UIDynamicItem", "prepareForInterfaceBuilder"]
+- ["PSo13UIDynamicItem", "ringLayer"]
+- ["PSo13UIDynamicItem", "strokeColor"]
+- ["PSo13UIDynamicItem", "strokeWidth"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "CAShapeLayer"]
+- !private ["PSo18UIFocusEnvironment", "CGRectInset"]
+- !private ["PSo18UIFocusEnvironment", "UIBezierPath"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UIImageView"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "imageView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", "layoutSubviews"]
+- ["PSo18UIFocusEnvironment", "maskLayer"]
+- ["PSo18UIFocusEnvironment", "prepareForInterfaceBuilder"]
+- ["PSo18UIFocusEnvironment", "ringLayer"]
+- ["PSo18UIFocusEnvironment", "strokeColor"]
+- ["PSo18UIFocusEnvironment", "strokeWidth"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIImageView", "backgroundColor"]
+- !private ["CSo11UIImageView", "deinit"]
+- !private ["CSo11UIImageView", "frame"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo11UIImageView", "init"]
+- !private ["CSo11UIImageView", "layer"]
+- ["CSo11UIResponder", "CAShapeLayer"]
+- ["CSo11UIResponder", "CGFloat"]
+- ["CSo11UIResponder", "CGRect"]
+- !private ["CSo11UIResponder", "CGRectInset"]
+- ["CSo11UIResponder", "NSCoder"]
+- !private ["CSo11UIResponder", "UIBezierPath"]
+- ["CSo11UIResponder", "UIColor"]
+- ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "deinit"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "imageView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "layoutSubviews"]
+- ["CSo11UIResponder", "maskLayer"]
+- ["CSo11UIResponder", "prepareForInterfaceBuilder"]
+- ["CSo11UIResponder", "ringLayer"]
+- ["CSo11UIResponder", "strokeColor"]
+- ["CSo11UIResponder", "strokeWidth"]
+- !private ["PSo18UITraitEnvironment", "CAShapeLayer"]
+- !private ["PSo18UITraitEnvironment", "CGRectInset"]
+- !private ["PSo18UITraitEnvironment", "UIBezierPath"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UIImageView"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "imageView"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", "layoutSubviews"]
+- ["PSo18UITraitEnvironment", "maskLayer"]
+- ["PSo18UITraitEnvironment", "prepareForInterfaceBuilder"]
+- ["PSo18UITraitEnvironment", "ringLayer"]
+- ["PSo18UITraitEnvironment", "strokeColor"]
+- ["PSo18UITraitEnvironment", "strokeWidth"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "CAShapeLayer"]
+- ["CSo6UIView", "CGFloat"]
+- ["CSo6UIView", "CGRect"]
+- !private ["CSo6UIView", "CGRectInset"]
+- ["CSo6UIView", "NSCoder"]
+- !private ["CSo6UIView", "UIBezierPath"]
+- ["CSo6UIView", "UIColor"]
+- ["CSo6UIView", "UIImage"]
+- ["CSo6UIView", "UIImageView"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo6UIView", "image"]
+- ["CSo6UIView", "imageView"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", "layoutSubviews"]
+- ["CSo6UIView", "maskLayer"]
+- ["CSo6UIView", "prepareForInterfaceBuilder"]
+- ["CSo6UIView", "ringLayer"]
+- ["CSo6UIView", "strokeColor"]
+- ["CSo6UIView", "strokeWidth"]
+- ["CSo6UIView", ""]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs24_ColorLiteralConvertible", "CGColor"]
+- !private ["PSs24_ColorLiteralConvertible", "clearColor"]
+- ["PSs24_ColorLiteralConvertible", "lightGrayColor"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "CAShapeLayer"]
+- !private ["PSs12_Reflectable", "CGRectInset"]
+- !private ["PSs12_Reflectable", "UIBezierPath"]
+- !private ["PSs12_Reflectable", "UIColor"]
+- !private ["PSs12_Reflectable", "UIImageView"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "addSubview"]
+- !private ["PSs12_Reflectable", "backgroundColor"]
+- !private ["PSs12_Reflectable", "bounds"]
+- !private ["PSs12_Reflectable", "frame"]
+- ["PSs12_Reflectable", "image"]
+- ["PSs12_Reflectable", "imageView"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "layer"]
+- ["PSs12_Reflectable", "layoutSubviews"]
+- ["PSs12_Reflectable", "maskLayer"]
+- ["PSs12_Reflectable", "prepareForInterfaceBuilder"]
+- ["PSs12_Reflectable", "ringLayer"]
+- ["PSs12_Reflectable", "strokeColor"]
+- ["PSs12_Reflectable", "strokeWidth"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- !private "CSo7CALayer"
+- !private "PSo13CAMediaTiming"
+- !private "CSo12CAShapeLayer"
+- "V12CoreGraphics7CGFloat"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "C12Tudo_On_Line10CustomView"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "SQ"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- !private "Sq"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo12UIBezierPath"
+- "CSo7UIColor"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- "PSs24_ColorLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/Tudo On Line-Bridging-Header.h"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Tudo On Line/FXBlurView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/PagingMenuController.swiftmodule/i386.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules/module.modulemap"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/TFTransparentNavigationBar.swiftmodule/i386.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreAudio.swiftmodule"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSString+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSPredicate+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSExpression+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSArray+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRegexValidator.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSliderCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSegmentedCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormStepCounterCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormLeftRightSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormPickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSwitchCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextViewCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormTextFieldCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineSelectorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormInlineRowDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsObject.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/NSObject+XLFormAdditions.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDatePickerCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDateCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormCheckCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormButtonCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowNavigationAccessoryView.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorDelegate.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormSectionDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidationStatus.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormValidatorProtocol.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptor.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRowDescriptorViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormOptionsViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormViewController.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormDescriptorCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormBaseCell.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-umbrella.h"
+- "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreLocation.swiftmodule"
+interface-hash: "917d1f98792cc99ffe618e08b1a6e1ef"
