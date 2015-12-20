@@ -6,29 +6,29 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line19RestaurantesTableVC", ""]
 provides-dynamic-lookup:
-- "numberOfSectionsInTableView"
 - "navigationControllerBarPushStyle"
-- "didReceiveMemoryWarning"
-- "viewDidLoad"
 - "preferredStatusBarStyle"
 - "tableView"
 - "tableView"
 - "tableView"
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+- "numberOfSectionsInTableView"
 depends-top-level:
-- "UITableView"
+- !private "UIBarButtonItemStyle"
 - "TFTransparentNavigationBarProtocol"
+- "UITableViewCell"
+- !private "!="
+- "UIStatusBarStyle"
+- "Int"
 - !private "UIImage"
 - !private "UIBarButtonItem"
-- !private "!="
-- "Int"
-- "RestaurantesTableVC"
-- !private "StringLiteralType"
 - "NSIndexPath"
-- "UITableViewCell"
-- !private "UIBarButtonItemStyle"
-- "TFNavigationBarStyle"
-- "UIStatusBarStyle"
 - "UITableViewController"
+- !private "StringLiteralType"
+- "UITableView"
+- "TFNavigationBarStyle"
+- "RestaurantesTableVC"
 depends-member:
 - !private ["PSs9AnyObject", "TFNavigationBarStyle"]
 - !private ["PSs9AnyObject", "UIBarButtonItem"]

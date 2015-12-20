@@ -8,19 +8,19 @@ provides-member:
 provides-dynamic-lookup:
 - "tableView"
 - "tableView"
-- "didReceiveMemoryWarning"
 - "numberOfSectionsInTableView"
 - "viewDidLoad"
+- "didReceiveMemoryWarning"
 depends-top-level:
-- "UITableViewCell"
 - "UIViewController"
-- "PedidosRealizadosVC"
-- "Int"
-- "UITableViewDataSource"
-- "UITableViewDelegate"
+- "UITableView"
 - "NSIndexPath"
 - !private "StringLiteralType"
-- "UITableView"
+- "UITableViewCell"
+- "PedidosRealizadosVC"
+- "UITableViewDataSource"
+- "Int"
+- "UITableViewDelegate"
 depends-member:
 - !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
 - ["PSs9AnyObject", "didReceiveMemoryWarning"]

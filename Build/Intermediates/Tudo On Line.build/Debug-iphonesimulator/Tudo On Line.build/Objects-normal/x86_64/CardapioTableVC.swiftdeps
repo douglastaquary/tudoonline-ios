@@ -6,24 +6,24 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line15CardapioTableVC", ""]
 provides-dynamic-lookup:
-- "didReceiveMemoryWarning"
+- "tableView"
+- "tableView"
+- "tableView"
 - "scrollViewDidScroll"
-- "viewDidLoad"
-- "tableView"
-- "tableView"
-- "tableView"
-- "preferredStatusBarStyle"
 - "numberOfSectionsInTableView"
+- "viewDidLoad"
+- "preferredStatusBarStyle"
+- "didReceiveMemoryWarning"
 depends-top-level:
 - "UITableView"
-- !private "NSNotificationCenter"
-- "UITableViewController"
-- "Int"
-- "CardapioTableVC"
-- "UIStatusBarStyle"
 - "NSIndexPath"
+- "UIStatusBarStyle"
 - "UIScrollView"
 - !private "StringLiteralType"
+- "UITableViewController"
+- "CardapioTableVC"
+- "Int"
+- !private "NSNotificationCenter"
 - "UITableViewCell"
 depends-member:
 - !private ["PSs9AnyObject", "NSNotificationCenter"]

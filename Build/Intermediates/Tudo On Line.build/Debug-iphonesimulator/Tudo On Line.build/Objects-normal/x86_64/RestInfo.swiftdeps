@@ -8,8 +8,8 @@ provides-member:
 provides-dynamic-lookup:
 - "awakeFromNib"
 depends-top-level:
-- "UIView"
 - "RestInfo"
+- "UIView"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - !private ["PSs9AnyObject", "cornerRadius"]

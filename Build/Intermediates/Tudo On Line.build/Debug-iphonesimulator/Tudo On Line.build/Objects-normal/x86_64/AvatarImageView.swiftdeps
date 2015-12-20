@@ -8,9 +8,9 @@ provides-member:
 provides-dynamic-lookup:
 - "awakeFromNib"
 depends-top-level:
+- "AvatarImageView"
 - !private "UIColor"
 - "UIImageView"
-- "AvatarImageView"
 depends-member:
 - !private ["PSs9AnyObject", "CGColor"]
 - !private ["PSs9AnyObject", "UIColor"]

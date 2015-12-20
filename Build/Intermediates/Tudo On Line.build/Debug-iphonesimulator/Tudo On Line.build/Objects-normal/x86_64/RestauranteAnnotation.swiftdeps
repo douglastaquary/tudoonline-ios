@@ -7,15 +7,15 @@ provides-member:
 - ["C12Tudo_On_Line21RestauranteAnnotation", ""]
 provides-dynamic-lookup:
 - "subtitle"
-- "title"
 - "coordinate"
+- "title"
 depends-top-level:
+- "RestauranteAnnotation"
+- "MKAnnotation"
 - !private "StringLiteralType"
 - "NSObject"
-- "RestauranteAnnotation"
-- "String"
 - "CLLocationCoordinate2D"
-- "MKAnnotation"
+- "String"
 depends-member:
 - ["PSs9AnyObject", "coordinate"]
 - ["PSs9AnyObject", "init"]
