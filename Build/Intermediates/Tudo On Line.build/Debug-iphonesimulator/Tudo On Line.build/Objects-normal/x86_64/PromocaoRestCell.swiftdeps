@@ -8,13 +8,13 @@ provides-member:
 provides-dynamic-lookup:
 - "imagePromocaoCell"
 - "setSelected"
-- "diaDaSemanaLabel"
 - "awakeFromNib"
+- "diaDaSemanaLabel"
 depends-top-level:
-- "PromocaoRestCell"
-- "Bool"
-- "UITableViewCell"
 - "UILabel"
+- "Bool"
+- "PromocaoRestCell"
+- "UITableViewCell"
 - "UIImageView"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]

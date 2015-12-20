@@ -17,17 +17,17 @@ provides-member:
 - ["OC20PagingMenuController17PagingMenuOptions12MenuItemMode", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "FloatLiteralType"
 - "PagingMenuOptions"
-- "BooleanLiteralType"
-- "UIColor"
-- "Bool"
-- "CGFloat"
 - "NSTimeInterval"
-- "UIScrollViewDecelerationRateNormal"
-- "=="
-- "IntegerLiteralType"
+- "BooleanLiteralType"
+- "FloatLiteralType"
 - "UIFont"
+- "=="
+- "CGFloat"
+- "Bool"
+- "IntegerLiteralType"
+- "UIColor"
+- "UIScrollViewDecelerationRateNormal"
 depends-member:
 - ["PSs9AnyObject", "MenuDisplayMode"]
 - ["PSs9AnyObject", "MenuItemMode"]

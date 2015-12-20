@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FA7405227685D669E229D631'
+               BlueprintIdentifier = '5766EA23182AA555D8D26F3A'
                BlueprintName = 'TFTransparentNavigationBar'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'TFTransparentNavigationBar.framework'>

@@ -9,12 +9,12 @@ provides-member:
 - ["VSC6CGRect", "additiveRect"]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "-="
 - "CGRect"
+- !private "-="
+- "CGFloat"
+- !private "+="
 - "=="
 - "Direction"
-- !private "+="
-- "CGFloat"
 depends-member:
 - !private ["PSs22BidirectionalIndexType", "hashValue"]
 - !private ["PSs21BitwiseOperationsType", "hashValue"]

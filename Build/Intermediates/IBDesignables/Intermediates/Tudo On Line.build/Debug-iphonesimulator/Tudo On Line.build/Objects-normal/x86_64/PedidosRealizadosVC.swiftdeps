@@ -7,20 +7,20 @@ provides-member:
 - ["C12Tudo_On_Line19PedidosRealizadosVC", ""]
 provides-dynamic-lookup:
 - "numberOfSectionsInTableView"
-- "viewDidLoad"
-- "tableView"
-- "tableView"
 - "didReceiveMemoryWarning"
+- "tableView"
+- "tableView"
+- "viewDidLoad"
 depends-top-level:
-- "UITableViewCell"
-- "UIViewController"
-- "PedidosRealizadosVC"
 - "UITableViewDelegate"
 - "UITableViewDataSource"
-- "Int"
-- !private "StringLiteralType"
 - "NSIndexPath"
+- "UIViewController"
+- "PedidosRealizadosVC"
+- "UITableViewCell"
+- "Int"
 - "UITableView"
+- !private "StringLiteralType"
 depends-member:
 - !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
 - ["PSs9AnyObject", "didReceiveMemoryWarning"]
@@ -561,6 +561,9 @@ depends-external:
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"

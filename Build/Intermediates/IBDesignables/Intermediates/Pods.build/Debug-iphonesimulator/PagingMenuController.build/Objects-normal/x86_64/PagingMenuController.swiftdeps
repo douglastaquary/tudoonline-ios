@@ -11,65 +11,65 @@ provides-member:
 - ["C20PagingMenuController20PagingMenuController", ""]
 - ["OC20PagingMenuController20PagingMenuControllerP33_3B0413BAC804CDBF48256CB6D178C22518PagingViewPosition", ""]
 provides-dynamic-lookup:
-- "didMoveToMenuPage"
+- "scrollViewDidEndDecelerating"
+- "currentPage"
+- "delegate"
+- "visiblePagingViewControllers"
+- "viewWillTransitionToSize"
+- "willMoveToMenuPage"
+- "viewDidLayoutSubviews"
+- "handleSwipeGesture"
 - "menuView"
 - "viewWillAppear"
-- "visiblePagingViewControllers"
-- "willMoveToMenuPage"
+- "handleTapGesture"
+- "didMoveToMenuPage"
 - "currentViewController"
 - "pagingViewControllers"
-- "viewWillTransitionToSize"
-- "viewDidLayoutSubviews"
-- "currentPage"
-- "handleSwipeGesture"
-- "delegate"
-- "handleTapGesture"
-- "scrollViewDidEndDecelerating"
 depends-top-level:
-- !private "??"
-- !private "!"
-- !private "AnyObject"
-- "UIScrollView"
-- "UIScrollViewDelegate"
-- !private "-"
+- !private "/"
+- !private "CGFloat"
+- "CGSize"
 - !private "Void"
+- !private "&&"
+- !private "max"
+- !private ">"
+- !private "!"
+- "PagingMenuController"
+- "UISwipeGestureRecognizer"
+- !private ">="
 - !private "||"
+- !private "*"
+- "UIViewControllerTransitionCoordinator"
+- "UIScrollViewDelegate"
+- "PagingMenuOptions"
+- !private "-"
+- "UIView"
+- !private "<"
+- "NSCoder"
+- !private "min"
+- !private "MenuItemView"
 - "PagingMenuControllerDelegate"
 - "UIViewController"
-- !private "=="
-- "Bool"
-- !private "~="
-- !private "min"
-- !private "CGRectZero"
-- "StringLiteralType"
-- !private "NSLayoutConstraint"
-- !private "CGFloat"
-- "MenuView"
-- !private "&&"
-- !private "+"
-- !private "Dictionary"
-- !private ">="
-- !private "ceil"
-- !private "*"
 - !private "NSException"
-- "UIViewControllerTransitionCoordinator"
-- !private "!="
-- !private "Array"
-- !private ">"
-- "String"
-- !private "/"
-- !private "<="
-- "UITapGestureRecognizer"
+- "MenuView"
+- !private "AnyObject"
+- !private "ceil"
+- "UIScrollView"
+- !private "=="
 - "Int"
-- "NSCoder"
-- "CGSize"
-- !private "max"
-- "UIView"
-- "PagingMenuController"
-- !private "<"
-- !private "MenuItemView"
-- "PagingMenuOptions"
-- "UISwipeGestureRecognizer"
+- !private "??"
+- !private "!="
+- !private "~="
+- !private "NSLayoutConstraint"
+- "String"
+- "StringLiteralType"
+- !private "Array"
+- "UITapGestureRecognizer"
+- !private "CGRectZero"
+- "Bool"
+- !private "Dictionary"
+- !private "+"
+- !private "<="
 depends-member:
 - !private ["PSs16AbsoluteValuable", "IntegerLiteralType"]
 - !private ["PSs16AbsoluteValuable", "Stride"]
@@ -204,6 +204,7 @@ depends-member:
 - !private ["Sa", "indexOf"]
 - ["Sa", "init"]
 - !private ["Sa", "map"]
+- !private ["Sa", "removeAll"]
 - !private ["Sa", "removeAtIndex"]
 - !private ["Sa", "reserveCapacity"]
 - !private ["Sa", "subscript"]
@@ -223,6 +224,7 @@ depends-member:
 - !private ["PSs23ArrayLiteralConvertible", "indexOf"]
 - ["PSs23ArrayLiteralConvertible", "init"]
 - !private ["PSs23ArrayLiteralConvertible", "map"]
+- !private ["PSs23ArrayLiteralConvertible", "removeAll"]
 - !private ["PSs23ArrayLiteralConvertible", "removeAtIndex"]
 - !private ["PSs23ArrayLiteralConvertible", "reserveCapacity"]
 - !private ["PSs23ArrayLiteralConvertible", "subscript"]
@@ -377,6 +379,7 @@ depends-member:
 - !private ["PSs14CollectionType", "indexOf"]
 - ["PSs14CollectionType", "init"]
 - !private ["PSs14CollectionType", "map"]
+- !private ["PSs14CollectionType", "removeAll"]
 - !private ["PSs14CollectionType", "removeAtIndex"]
 - !private ["PSs14CollectionType", "reserveCapacity"]
 - !private ["PSs14CollectionType", "subscript"]
@@ -401,6 +404,7 @@ depends-member:
 - !private ["PSs28CustomDebugStringConvertible", "indexOf"]
 - ["PSs28CustomDebugStringConvertible", "init"]
 - !private ["PSs28CustomDebugStringConvertible", "map"]
+- !private ["PSs28CustomDebugStringConvertible", "removeAll"]
 - !private ["PSs28CustomDebugStringConvertible", "removeAtIndex"]
 - !private ["PSs28CustomDebugStringConvertible", "reserveCapacity"]
 - !private ["PSs28CustomDebugStringConvertible", "subscript"]
@@ -497,6 +501,7 @@ depends-member:
 - ["PSs23CustomStringConvertible", "previousIndex"]
 - !private ["PSs23CustomStringConvertible", "raise"]
 - ["PSs23CustomStringConvertible", "rebuild"]
+- !private ["PSs23CustomStringConvertible", "removeAll"]
 - !private ["PSs23CustomStringConvertible", "removeAtIndex"]
 - !private ["PSs23CustomStringConvertible", "removeFromParentViewController"]
 - !private ["PSs23CustomStringConvertible", "removeFromSuperview"]
@@ -825,6 +830,7 @@ depends-member:
 - !private ["PSs9Indexable", "indexOf"]
 - ["PSs9Indexable", "init"]
 - !private ["PSs9Indexable", "map"]
+- !private ["PSs9Indexable", "removeAll"]
 - !private ["PSs9Indexable", "removeAtIndex"]
 - !private ["PSs9Indexable", "reserveCapacity"]
 - !private ["PSs9Indexable", "subscript"]
@@ -882,6 +888,7 @@ depends-member:
 - !private ["PSs21MutableCollectionType", "indexOf"]
 - ["PSs21MutableCollectionType", "init"]
 - !private ["PSs21MutableCollectionType", "map"]
+- !private ["PSs21MutableCollectionType", "removeAll"]
 - !private ["PSs21MutableCollectionType", "removeAtIndex"]
 - !private ["PSs21MutableCollectionType", "reserveCapacity"]
 - !private ["PSs21MutableCollectionType", "subscript"]
@@ -898,6 +905,7 @@ depends-member:
 - !private ["PSs16MutableIndexable", "indexOf"]
 - ["PSs16MutableIndexable", "init"]
 - !private ["PSs16MutableIndexable", "map"]
+- !private ["PSs16MutableIndexable", "removeAll"]
 - !private ["PSs16MutableIndexable", "removeAtIndex"]
 - !private ["PSs16MutableIndexable", "reserveCapacity"]
 - !private ["PSs16MutableIndexable", "subscript"]
@@ -915,6 +923,7 @@ depends-member:
 - !private ["PSs16MutableSliceable", "indexOf"]
 - ["PSs16MutableSliceable", "init"]
 - !private ["PSs16MutableSliceable", "map"]
+- !private ["PSs16MutableSliceable", "removeAll"]
 - !private ["PSs16MutableSliceable", "removeAtIndex"]
 - !private ["PSs16MutableSliceable", "reserveCapacity"]
 - !private ["PSs16MutableSliceable", "subscript"]
@@ -1464,6 +1473,7 @@ depends-member:
 - !private ["PSs30RangeReplaceableCollectionType", "indexOf"]
 - ["PSs30RangeReplaceableCollectionType", "init"]
 - !private ["PSs30RangeReplaceableCollectionType", "map"]
+- !private ["PSs30RangeReplaceableCollectionType", "removeAll"]
 - !private ["PSs30RangeReplaceableCollectionType", "removeAtIndex"]
 - !private ["PSs30RangeReplaceableCollectionType", "reserveCapacity"]
 - !private ["PSs30RangeReplaceableCollectionType", "subscript"]
@@ -1488,6 +1498,7 @@ depends-member:
 - !private ["PSs12SequenceType", "indexOf"]
 - ["PSs12SequenceType", "init"]
 - !private ["PSs12SequenceType", "map"]
+- !private ["PSs12SequenceType", "removeAll"]
 - !private ["PSs12SequenceType", "removeAtIndex"]
 - !private ["PSs12SequenceType", "reserveCapacity"]
 - !private ["PSs12SequenceType", "subscript"]
@@ -2442,6 +2453,7 @@ depends-member:
 - !private ["PSs10_ArrayType", "indexOf"]
 - ["PSs10_ArrayType", "init"]
 - !private ["PSs10_ArrayType", "map"]
+- !private ["PSs10_ArrayType", "removeAll"]
 - !private ["PSs10_ArrayType", "removeAtIndex"]
 - !private ["PSs10_ArrayType", "reserveCapacity"]
 - !private ["PSs10_ArrayType", "subscript"]
@@ -2473,6 +2485,7 @@ depends-member:
 - !private ["PSs24_DestructorSafeContainer", "indexOf"]
 - ["PSs24_DestructorSafeContainer", "init"]
 - !private ["PSs24_DestructorSafeContainer", "map"]
+- !private ["PSs24_DestructorSafeContainer", "removeAll"]
 - !private ["PSs24_DestructorSafeContainer", "removeAtIndex"]
 - !private ["PSs24_DestructorSafeContainer", "reserveCapacity"]
 - !private ["PSs24_DestructorSafeContainer", "subscript"]
@@ -2509,6 +2522,7 @@ depends-member:
 - !private ["PSs21_ObjectiveCBridgeable", "indexOf"]
 - ["PSs21_ObjectiveCBridgeable", "init"]
 - !private ["PSs21_ObjectiveCBridgeable", "map"]
+- !private ["PSs21_ObjectiveCBridgeable", "removeAll"]
 - !private ["PSs21_ObjectiveCBridgeable", "removeAtIndex"]
 - !private ["PSs21_ObjectiveCBridgeable", "reserveCapacity"]
 - !private ["PSs21_ObjectiveCBridgeable", "subscript"]
@@ -2555,6 +2569,7 @@ depends-member:
 - !private ["PSs12_Reflectable", "moveToMenu"]
 - !private ["PSs12_Reflectable", "pagingEnabled"]
 - !private ["PSs12_Reflectable", "panGestureRecognizer"]
+- !private ["PSs12_Reflectable", "removeAll"]
 - !private ["PSs12_Reflectable", "removeAtIndex"]
 - !private ["PSs12_Reflectable", "removeFromSuperview"]
 - !private ["PSs12_Reflectable", "reserveCapacity"]
@@ -2715,4 +2730,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
-interface-hash: "9d33e47853a54755c58f78e073706453"
+interface-hash: "9e5e7a2e69e7fc22333f267e8f27e467"

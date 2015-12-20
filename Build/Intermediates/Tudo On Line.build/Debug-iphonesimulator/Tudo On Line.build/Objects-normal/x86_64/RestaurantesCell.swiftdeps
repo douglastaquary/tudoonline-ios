@@ -6,22 +6,22 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line16RestaurantesCell", ""]
 provides-dynamic-lookup:
-- "nomeRestaurante"
-- "categoria"
-- "logoRestaurante"
-- "awakeFromNib"
-- "distancia"
-- "setSelected"
+- "statusDorestaurante"
 - "iconDistancia"
 - "circuloStatus"
-- "statusDorestaurante"
+- "distancia"
+- "nomeRestaurante"
+- "categoria"
+- "awakeFromNib"
+- "logoRestaurante"
+- "setSelected"
 depends-top-level:
-- "CustomView"
+- "UITableViewCell"
+- "UILabel"
+- "UIImageView"
 - "RestaurantesCell"
 - "Bool"
-- "UIImageView"
-- "UILabel"
-- "UITableViewCell"
+- "CustomView"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "categoria"]

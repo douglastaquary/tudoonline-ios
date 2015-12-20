@@ -8,9 +8,9 @@ provides-member:
 provides-dynamic-lookup:
 - "awakeFromNib"
 depends-top-level:
-- "TWTButton"
 - !private "UIColor"
 - !private "/"
+- "TWTButton"
 - "UIButton"
 depends-member:
 - !private ["PSs9AnyObject", "CGColor"]

@@ -7,11 +7,11 @@ provides-member:
 - ["C31Tudo_On_Line_WatchKit_Extension19InterfaceController", ""]
 provides-dynamic-lookup:
 - "willActivate"
-- "didDeactivate"
 - "awakeWithContext"
+- "didDeactivate"
 depends-top-level:
-- "InterfaceController"
 - "WKInterfaceController"
+- "InterfaceController"
 - "AnyObject"
 depends-member:
 - ["PSs9AnyObject", "awakeWithContext"]

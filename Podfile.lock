@@ -1,15 +1,18 @@
 PODS:
-  - PagingMenuController (0.7.5)
+  - PagingMenuController (0.7.6)
+  - Reveal-iOS-SDK (1.6.2)
   - TFTransparentNavigationBar (0.2.0)
   - XLForm (3.0.2)
 
 DEPENDENCIES:
   - PagingMenuController
+  - Reveal-iOS-SDK
   - TFTransparentNavigationBar
   - XLForm (~> 3.0.0)
 
 SPEC CHECKSUMS:
-  PagingMenuController: ea590be94de2332a1f78fbbc45fa6f49405279ea
+  PagingMenuController: d34cb992957c7dfae085785a870cf5f3966020be
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
   TFTransparentNavigationBar: f7a448a61d21baa0a138b4bd2db77119861abb68
   XLForm: 7817ce29f3f259186e837bb7309ac7e5b7e9b883
 

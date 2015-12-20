@@ -10,11 +10,11 @@ provides-dynamic-lookup:
 - "title"
 - "coordinate"
 depends-top-level:
+- !private "StringLiteralType"
+- "NSObject"
 - "RestauranteAnnotation"
 - "String"
 - "CLLocationCoordinate2D"
-- "NSObject"
-- !private "StringLiteralType"
 - "MKAnnotation"
 depends-member:
 - ["PSs9AnyObject", "coordinate"]

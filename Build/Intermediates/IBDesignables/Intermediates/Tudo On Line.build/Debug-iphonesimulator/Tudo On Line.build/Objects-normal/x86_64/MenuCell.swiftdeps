@@ -7,15 +7,15 @@ provides-member:
 - ["C12Tudo_On_Line8MenuCell", ""]
 provides-dynamic-lookup:
 - "imagemMenuCell"
-- "awakeFromNib"
-- "labelMenuCell"
 - "setSelected"
+- "labelMenuCell"
+- "awakeFromNib"
 depends-top-level:
-- "Bool"
+- "UITableViewCell"
 - "UIImageView"
 - "UILabel"
-- "UITableViewCell"
 - "MenuCell"
+- "Bool"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "imagemMenuCell"]
@@ -198,6 +198,9 @@ depends-external:
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-umbrella.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightImageButton.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLFormRightDetailCell.h"
 - "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/XLForm.framework/Headers/UIView+XLFormAdditions.h"

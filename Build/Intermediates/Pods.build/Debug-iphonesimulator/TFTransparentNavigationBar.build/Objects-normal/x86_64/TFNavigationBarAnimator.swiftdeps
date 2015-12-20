@@ -12,14 +12,14 @@ provides-dynamic-lookup:
 - "navigationController"
 - "isInteractive"
 depends-top-level:
-- "TFNavigationBarStyleTransition"
+- "Bool"
 - "=="
+- "TFNavigationBarStyleTransition"
 - !private "StringLiteralType"
 - "NSObject"
-- "Bool"
 - "TFNavigationBarAnimator"
-- "TFNavigationController"
 - "BooleanLiteralType"
+- "TFNavigationController"
 depends-member:
 - ["PSs9AnyObject", "init"]
 - ["PSs9AnyObject", "isInteractive"]

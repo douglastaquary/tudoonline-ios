@@ -9,17 +9,17 @@ provides-member:
 - ["O26TFTransparentNavigationBar30TFNavigationBarStyleTransition", ""]
 - ["C26TFTransparentNavigationBar23TFNavigationBarAnimator", ""]
 provides-dynamic-lookup:
-- "isInteractive"
 - "navigationController"
+- "isInteractive"
 depends-top-level:
-- "TFNavigationController"
+- "TFNavigationBarStyleTransition"
+- "TFNavigationBarAnimator"
+- "=="
 - !private "StringLiteralType"
 - "NSObject"
-- "=="
-- "BooleanLiteralType"
-- "TFNavigationBarAnimator"
-- "TFNavigationBarStyleTransition"
 - "Bool"
+- "TFNavigationController"
+- "BooleanLiteralType"
 depends-member:
 - ["PSs9AnyObject", "init"]
 - ["PSs9AnyObject", "isInteractive"]

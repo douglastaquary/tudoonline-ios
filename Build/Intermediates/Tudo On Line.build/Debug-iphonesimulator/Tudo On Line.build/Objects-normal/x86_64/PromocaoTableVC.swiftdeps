@@ -6,19 +6,19 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line15PromocaoTableVC", ""]
 provides-dynamic-lookup:
+- "numberOfSectionsInTableView"
 - "didReceiveMemoryWarning"
 - "viewDidLoad"
 - "tableView"
 - "tableView"
-- "numberOfSectionsInTableView"
 depends-top-level:
 - "UITableViewController"
 - !private "StringLiteralType"
+- !private "UIImage"
 - "PromocaoTableVC"
+- "UITableViewCell"
 - "Int"
 - "NSIndexPath"
-- "UITableViewCell"
-- !private "UIImage"
 - "UITableView"
 depends-member:
 - !private ["PSs9AnyObject", "UIImage"]

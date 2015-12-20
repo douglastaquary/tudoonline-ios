@@ -6,16 +6,16 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line8MenuCell", ""]
 provides-dynamic-lookup:
-- "labelMenuCell"
 - "awakeFromNib"
 - "imagemMenuCell"
 - "setSelected"
+- "labelMenuCell"
 depends-top-level:
-- "MenuCell"
-- "UITableViewCell"
+- "Bool"
 - "UIImageView"
 - "UILabel"
-- "Bool"
+- "UITableViewCell"
+- "MenuCell"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "imagemMenuCell"]

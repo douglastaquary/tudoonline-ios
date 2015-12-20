@@ -6,14 +6,14 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line15RestSobreTVCell", ""]
 provides-dynamic-lookup:
-- "setSelected"
 - "awakeFromNib"
 - "textView"
+- "setSelected"
 depends-top-level:
-- "Bool"
-- "UITextView"
 - "RestSobreTVCell"
+- "UITextView"
 - "UITableViewCell"
+- "Bool"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "init"]

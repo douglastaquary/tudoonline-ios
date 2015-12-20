@@ -6,22 +6,22 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line9Promocoes", ""]
 provides-dynamic-lookup:
+- "preferredStatusBarStyle"
+- "tableView"
+- "numberOfSectionsInTableView"
 - "didReceiveMemoryWarning"
 - "viewDidLoad"
-- "tableView"
-- "preferredStatusBarStyle"
-- "numberOfSectionsInTableView"
 depends-top-level:
-- !private "!="
-- !private "UIImage"
-- !private "StringLiteralType"
+- "UITableView"
 - "Int"
 - "Promocoes"
-- "UITableViewController"
-- !private "UIBarButtonItemStyle"
-- !private "UIBarButtonItem"
-- "UITableView"
+- !private "StringLiteralType"
 - "UIStatusBarStyle"
+- !private "UIBarButtonItemStyle"
+- "UITableViewController"
+- !private "UIBarButtonItem"
+- !private "UIImage"
+- !private "!="
 depends-member:
 - !private ["PSs9AnyObject", "UIBarButtonItem"]
 - !private ["PSs9AnyObject", "UIBarButtonItemStyle"]
