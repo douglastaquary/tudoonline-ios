@@ -6,16 +6,16 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line16PromocaoRestCell", ""]
 provides-dynamic-lookup:
-- "setSelected"
 - "imagePromocaoCell"
-- "diaDaSemanaLabel"
+- "setSelected"
 - "awakeFromNib"
+- "diaDaSemanaLabel"
 depends-top-level:
-- "PromocaoRestCell"
 - "Bool"
-- "UITableViewCell"
-- "UILabel"
+- "PromocaoRestCell"
 - "UIImageView"
+- "UILabel"
+- "UITableViewCell"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "diaDaSemanaLabel"]

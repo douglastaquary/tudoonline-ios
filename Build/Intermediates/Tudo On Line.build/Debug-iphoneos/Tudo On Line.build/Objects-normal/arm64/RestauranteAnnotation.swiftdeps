@@ -6,16 +6,16 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line21RestauranteAnnotation", ""]
 provides-dynamic-lookup:
-- "title"
-- "subtitle"
 - "coordinate"
+- "subtitle"
+- "title"
 depends-top-level:
-- "CLLocationCoordinate2D"
-- "RestauranteAnnotation"
-- !private "StringLiteralType"
-- "NSObject"
-- "String"
 - "MKAnnotation"
+- "String"
+- "NSObject"
+- !private "StringLiteralType"
+- "RestauranteAnnotation"
+- "CLLocationCoordinate2D"
 depends-member:
 - ["PSs9AnyObject", "coordinate"]
 - ["PSs9AnyObject", "init"]

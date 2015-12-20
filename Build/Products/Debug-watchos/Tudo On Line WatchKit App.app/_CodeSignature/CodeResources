@@ -24,43 +24,43 @@
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		C/T65AI7F3TvGRv1H9sYDB9sbgM=
+		D7/bGWhcttGyJhMLY/1G/KInSwg=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		ppUw2Abo+5WuPRUa19VOhG97Xrw=
+		7ItdoFLipmSD6GvAWuvG1kGMmKk=
 		</data>
 		<key>Frameworks/libswiftCoreLocation.dylib</key>
 		<data>
-		maBQdryjzryZaT+O3a6WdBiLaE4=
+		vz+IXiZQutY9+z8rDqLJw83luRs=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		EC7cW80w2HrtPLpuyy477htW1Cw=
+		GH91RSo5YwrI++j0Vs7fqXOtR2c=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		jlnD9PAWKT28nCHr6JrJctUSTSU=
+		E8qM1fqqDVRWlPwozMdW20NqOXA=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		Hkv1DtOomumZSp5AFQxGmfguMAA=
+		Zpwpc2SJ1FkAZEmAIZE9DJ3OHKE=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		6djsQIb7ygsOvdFOj1Z/AkXicu8=
+		7T07oCj35fZeh5KJ7DcNVynpJCw=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		BVZ7GnUGpQzbv/ezdNrD19ygll8=
+		Rv3A5tmEEb8AhtGJvDfVQjyI4ZM=
 		</data>
 		<key>Frameworks/libswiftWatchKit.dylib</key>
 		<data>
-		7EH7LvQyZ6g5DTrh49FzMnh/4Mk=
+		s43Ri0CjFAJu3m2P9ReyefpuNks=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zFyO4+ugR7n/cmN6RRbKpOrqrq0=
+		KamPOfPCgfN9NKSfcUWwU+36UDU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -68,27 +68,27 @@
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Info.plist</key>
 		<data>
-		VEMeDK+GbOKcQV5YH2mPM8rCTKQ=
+		lQtzG0+9aX2nyMwYi/qdGiADwKY=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Tudo On Line WatchKit Extension</key>
 		<data>
-		Z1+OLTTXOD/HhK8h+WzAk93kqjA=
+		NyEesSxmw2HhM8YNJ1ffX8eMLG0=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		KdoCDAhYgYbUh8bJXc2uvgt+5Zk=
+		OavFKxDBzyHLr9VYXPRADmMTxQY=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/embedded.mobileprovision</key>
 		<data>
-		Oc/7Xd1MhM+E7E5qQLsj1FKXqNA=
+		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
 		</data>
 		<key>_WatchKitStub/WK</key>
 		<data>
-		4lJZkLNtHNXIAoY3CVoIAkjAhzU=
+		I/a8TPmdnw90NGHVKC2ycuYBEfo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Oc/7Xd1MhM+E7E5qQLsj1FKXqNA=
+		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -113,63 +113,63 @@
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		C/T65AI7F3TvGRv1H9sYDB9sbgM=
+		D7/bGWhcttGyJhMLY/1G/KInSwg=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		ppUw2Abo+5WuPRUa19VOhG97Xrw=
+		7ItdoFLipmSD6GvAWuvG1kGMmKk=
 		</data>
 		<key>Frameworks/libswiftCoreLocation.dylib</key>
 		<data>
-		maBQdryjzryZaT+O3a6WdBiLaE4=
+		vz+IXiZQutY9+z8rDqLJw83luRs=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		EC7cW80w2HrtPLpuyy477htW1Cw=
+		GH91RSo5YwrI++j0Vs7fqXOtR2c=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		jlnD9PAWKT28nCHr6JrJctUSTSU=
+		E8qM1fqqDVRWlPwozMdW20NqOXA=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		Hkv1DtOomumZSp5AFQxGmfguMAA=
+		Zpwpc2SJ1FkAZEmAIZE9DJ3OHKE=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		6djsQIb7ygsOvdFOj1Z/AkXicu8=
+		7T07oCj35fZeh5KJ7DcNVynpJCw=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		BVZ7GnUGpQzbv/ezdNrD19ygll8=
+		Rv3A5tmEEb8AhtGJvDfVQjyI4ZM=
 		</data>
 		<key>Frameworks/libswiftWatchKit.dylib</key>
 		<data>
-		7EH7LvQyZ6g5DTrh49FzMnh/4Mk=
+		s43Ri0CjFAJu3m2P9ReyefpuNks=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Info.plist</key>
 		<data>
-		VEMeDK+GbOKcQV5YH2mPM8rCTKQ=
+		lQtzG0+9aX2nyMwYi/qdGiADwKY=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Tudo On Line WatchKit Extension</key>
 		<data>
-		Z1+OLTTXOD/HhK8h+WzAk93kqjA=
+		NyEesSxmw2HhM8YNJ1ffX8eMLG0=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		KdoCDAhYgYbUh8bJXc2uvgt+5Zk=
+		OavFKxDBzyHLr9VYXPRADmMTxQY=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/embedded.mobileprovision</key>
 		<data>
-		Oc/7Xd1MhM+E7E5qQLsj1FKXqNA=
+		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
 		</data>
 		<key>_WatchKitStub/WK</key>
 		<data>
-		4lJZkLNtHNXIAoY3CVoIAkjAhzU=
+		I/a8TPmdnw90NGHVKC2ycuYBEfo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Oc/7Xd1MhM+E7E5qQLsj1FKXqNA=
+		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
 		</data>
 	</dict>
 	<key>rules</key>

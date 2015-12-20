@@ -6,21 +6,21 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line19PedidosRealizadosVC", ""]
 provides-dynamic-lookup:
-- "tableView"
-- "tableView"
 - "didReceiveMemoryWarning"
 - "viewDidLoad"
 - "numberOfSectionsInTableView"
+- "tableView"
+- "tableView"
 depends-top-level:
-- "UIViewController"
-- "PedidosRealizadosVC"
-- "UITableViewDelegate"
-- "Int"
-- "UITableViewDataSource"
-- "UITableViewCell"
-- !private "StringLiteralType"
 - "NSIndexPath"
+- "UITableViewCell"
+- "UITableViewDataSource"
+- "UITableViewDelegate"
+- !private "StringLiteralType"
+- "Int"
 - "UITableView"
+- "PedidosRealizadosVC"
+- "UIViewController"
 depends-member:
 - !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
 - ["PSs9AnyObject", "didReceiveMemoryWarning"]

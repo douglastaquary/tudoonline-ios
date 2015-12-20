@@ -4,12 +4,12 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "PagingMenuController-Swift.h",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Headers/PagingMenuController-Swift.h"
         },
         {
           'type': 'file',
@@ -20,23 +20,23 @@
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/PagingMenuController.framework/Modules",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/PagingMenuController.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphonesimulator/PagingMenuController.build/module.modulemap"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphoneos/PagingMenuController.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/Pods.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Pods-Swift.h",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/Pods.framework/Headers/Pods-Swift.h"
         },
         {
           'type': 'file',
@@ -47,23 +47,23 @@
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/Pods.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "TFTransparentNavigationBar-Swift.h",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Headers/TFTransparentNavigationBar-Swift.h"
         },
         {
           'type': 'file',
@@ -74,18 +74,18 @@
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/TFTransparentNavigationBar.framework/Modules",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/TFTransparentNavigationBar.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphonesimulator/TFTransparentNavigationBar.build/module.modulemap"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphoneos/TFTransparentNavigationBar.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -120,7 +120,7 @@
         {
           'type': 'file',
           'name': "XLForm-Swift.h",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Headers/XLForm-Swift.h"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Headers/XLForm-Swift.h"
         },
         {
           'type': 'file',
@@ -301,12 +301,12 @@
     },
     {
       'type': 'directory',
-      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphonesimulator/XLForm.framework/Modules",
+      'name': "/iOS Projects/Swift/Tudo On Line/Build/Products/Debug-iphoneos/XLForm.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphonesimulator/XLForm.build/module.modulemap"
+          'external-contents': "/iOS Projects/Swift/Tudo On Line/Build/Intermediates/Pods.build/Debug-iphoneos/XLForm.build/module.modulemap"
         }
       ]
     }

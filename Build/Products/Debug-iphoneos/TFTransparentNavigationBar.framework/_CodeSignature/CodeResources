@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TFTransparentNavigationBar-Swift.h</key>
 		<data>
-		2OtEtSEASmNbQc7BwxIX0MbjtC0=
+		aRFu1Xx03iIl9KlH57pQkQtcQjg=
 		</data>
 		<key>Headers/TFTransparentNavigationBar-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/JF+mBBc6DOd9jfoBloJ1FHqCsI=
+		WNsgL8iihQRXtFOhv3GgjY73T90=
 		</data>
 		<key>Modules/TFTransparentNavigationBar.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		OIL/fl+TK7QMtYsLXTduPlOg4GI=
+		fIpxOKAjR9plS6cvnn3Uj8k/7Lc=
 		</data>
 		<key>Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		TMfKPGu5FfflviCwI9QKUyHY4pE=
+		oHF2jv/snGXrlCzhdXRE7SZG9+s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -41,7 +41,7 @@
 	<dict>
 		<key>Headers/TFTransparentNavigationBar-Swift.h</key>
 		<data>
-		2OtEtSEASmNbQc7BwxIX0MbjtC0=
+		aRFu1Xx03iIl9KlH57pQkQtcQjg=
 		</data>
 		<key>Headers/TFTransparentNavigationBar-umbrella.h</key>
 		<data>
@@ -57,11 +57,11 @@
 		</data>
 		<key>Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		OIL/fl+TK7QMtYsLXTduPlOg4GI=
+		fIpxOKAjR9plS6cvnn3Uj8k/7Lc=
 		</data>
 		<key>Modules/TFTransparentNavigationBar.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		TMfKPGu5FfflviCwI9QKUyHY4pE=
+		oHF2jv/snGXrlCzhdXRE7SZG9+s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

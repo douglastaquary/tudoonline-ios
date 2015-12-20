@@ -6,27 +6,27 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line21PedidosViewController", ""]
 provides-dynamic-lookup:
-- "willMoveToMenuPage"
 - "didReceiveMemoryWarning"
 - "viewDidLoad"
 - "didMoveToMenuPage"
+- "willMoveToMenuPage"
 depends-top-level:
-- !private "UIBarButtonItem"
-- "PagingMenuControllerDelegate"
-- !private "UIBarButtonItemStyle"
-- !private "PagingMenuOptions"
-- "Int"
-- !private "/"
-- !private "!="
-- "UIViewController"
-- !private "UIColor"
 - !private "PedidosRealizadosVC"
-- !private "UIImage"
-- !private "PagingMenuController"
-- !private "StringLiteralType"
-- !private "Array"
+- !private "/"
+- !private "PagingMenuOptions"
 - "PedidosViewController"
+- "UIViewController"
+- !private "UIBarButtonItem"
+- !private "Array"
 - !private "PedidosAndamentoVC"
+- !private "StringLiteralType"
+- "PagingMenuControllerDelegate"
+- !private "!="
+- !private "UIBarButtonItemStyle"
+- !private "PagingMenuController"
+- !private "UIColor"
+- !private "UIImage"
+- "Int"
 depends-member:
 - !private ["PSs9AnyObject", "MenuDisplayMode"]
 - !private ["PSs9AnyObject", "MenuItemMode"]

@@ -6,22 +6,22 @@ provides-nominal:
 provides-member:
 - ["C12Tudo_On_Line12PromocaoCell", ""]
 provides-dynamic-lookup:
-- "setSelected"
-- "circuloStatusDoRestaurante"
+- "distancia"
 - "logoRestaurantePromocao"
-- "valorPromocao"
-- "promocaoLabel"
 - "nomeDoRestaurante"
 - "awakeFromNib"
+- "setSelected"
+- "circuloStatusDoRestaurante"
 - "iconeDistanciaPromocao"
-- "distancia"
+- "promocaoLabel"
+- "valorPromocao"
 depends-top-level:
-- "PromocaoCell"
-- "UITableViewCell"
-- "Bool"
-- "UIImageView"
 - "UILabel"
+- "UIImageView"
 - "CustomView"
+- "PromocaoCell"
+- "Bool"
+- "UITableViewCell"
 depends-member:
 - ["PSs9AnyObject", "awakeFromNib"]
 - ["PSs9AnyObject", "circuloStatusDoRestaurante"]

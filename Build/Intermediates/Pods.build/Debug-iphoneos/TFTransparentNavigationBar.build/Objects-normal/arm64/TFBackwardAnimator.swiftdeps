@@ -6,29 +6,29 @@ provides-nominal:
 provides-member:
 - ["C26TFTransparentNavigationBar18TFBackwardAnimator", ""]
 provides-dynamic-lookup:
+- "transitionDuration"
 - "animateTransition"
 - "removeAnimationsForViews"
-- "transitionDuration"
 depends-top-level:
-- "TFBackwardAnimator"
+- !private "!"
 - !private "UITransitionContextFromViewKey"
-- "NSTimeInterval"
+- "TFNavigationBarAnimator"
+- !private "=="
+- "UIViewControllerAnimatedTransitioning"
+- !private "UITransitionContextToViewControllerKey"
 - !private "*"
 - !private "-"
-- "TFNavigationBarAnimator"
-- !private "Array"
-- "UIViewControllerAnimatedTransitioning"
-- !private "CGRectOffset"
-- !private "UITransitionContextToViewKey"
-- !private "BooleanLiteralType"
-- "UIView"
-- !private "=="
 - !private "UITransitionContextFromViewControllerKey"
-- !private "Void"
-- !private "UITransitionContextToViewControllerKey"
 - !private "CGRect"
-- !private "!"
+- "TFBackwardAnimator"
+- !private "CGRectOffset"
+- !private "Void"
+- "NSTimeInterval"
+- !private "UITransitionContextToViewKey"
 - "UIViewControllerContextTransitioning"
+- "UIView"
+- !private "Array"
+- !private "BooleanLiteralType"
 depends-member:
 - !private ["PSs9AnyObject", "CGRectOffset"]
 - !private ["PSs9AnyObject", "UITransitionContextFromViewControllerKey"]
