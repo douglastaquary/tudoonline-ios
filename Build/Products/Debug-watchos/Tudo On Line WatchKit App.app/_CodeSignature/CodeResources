@@ -24,39 +24,39 @@
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		D7/bGWhcttGyJhMLY/1G/KInSwg=
+		0sAfQNT/+UnPAc91leGLJT6ePTA=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		7ItdoFLipmSD6GvAWuvG1kGMmKk=
+		NqK7znDAMavCmeFsecpyMTAUxXU=
 		</data>
 		<key>Frameworks/libswiftCoreLocation.dylib</key>
 		<data>
-		vz+IXiZQutY9+z8rDqLJw83luRs=
+		syf6fn37JbQ4f7P2yRewUGvN7wc=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		GH91RSo5YwrI++j0Vs7fqXOtR2c=
+		481EBzjuQtR8ReskACRDT0MRhVY=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		E8qM1fqqDVRWlPwozMdW20NqOXA=
+		kjUJnGYdqJ9A/RIafi/yiY1fJ/I=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		Zpwpc2SJ1FkAZEmAIZE9DJ3OHKE=
+		6wR9b0Z9xe9G7BVn+an/Q6dO6v4=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		7T07oCj35fZeh5KJ7DcNVynpJCw=
+		EXv8LL4YuJzL1Dg8JHklyIRKAjE=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		Rv3A5tmEEb8AhtGJvDfVQjyI4ZM=
+		qZQX0umNy2lCoDguWoNfz+VAvd4=
 		</data>
 		<key>Frameworks/libswiftWatchKit.dylib</key>
 		<data>
-		s43Ri0CjFAJu3m2P9ReyefpuNks=
+		iHPkcBJECD9kYX/p1pMJqMgjbVw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -72,15 +72,15 @@
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Tudo On Line WatchKit Extension</key>
 		<data>
-		NyEesSxmw2HhM8YNJ1ffX8eMLG0=
+		jquHwsUSbqm11pHjuOL9aCD11ac=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		OavFKxDBzyHLr9VYXPRADmMTxQY=
+		S8uEbe3sdV2VQZsxry7Pk7w7We4=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/embedded.mobileprovision</key>
 		<data>
-		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
+		AXfs8+gsp2Cmk/aMDKG1Xsq8FRk=
 		</data>
 		<key>_WatchKitStub/WK</key>
 		<data>
@@ -88,7 +88,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
+		AXfs8+gsp2Cmk/aMDKG1Xsq8FRk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -113,39 +113,39 @@
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		D7/bGWhcttGyJhMLY/1G/KInSwg=
+		0sAfQNT/+UnPAc91leGLJT6ePTA=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		7ItdoFLipmSD6GvAWuvG1kGMmKk=
+		NqK7znDAMavCmeFsecpyMTAUxXU=
 		</data>
 		<key>Frameworks/libswiftCoreLocation.dylib</key>
 		<data>
-		vz+IXiZQutY9+z8rDqLJw83luRs=
+		syf6fn37JbQ4f7P2yRewUGvN7wc=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		GH91RSo5YwrI++j0Vs7fqXOtR2c=
+		481EBzjuQtR8ReskACRDT0MRhVY=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		E8qM1fqqDVRWlPwozMdW20NqOXA=
+		kjUJnGYdqJ9A/RIafi/yiY1fJ/I=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		Zpwpc2SJ1FkAZEmAIZE9DJ3OHKE=
+		6wR9b0Z9xe9G7BVn+an/Q6dO6v4=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		7T07oCj35fZeh5KJ7DcNVynpJCw=
+		EXv8LL4YuJzL1Dg8JHklyIRKAjE=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		Rv3A5tmEEb8AhtGJvDfVQjyI4ZM=
+		qZQX0umNy2lCoDguWoNfz+VAvd4=
 		</data>
 		<key>Frameworks/libswiftWatchKit.dylib</key>
 		<data>
-		s43Ri0CjFAJu3m2P9ReyefpuNks=
+		iHPkcBJECD9kYX/p1pMJqMgjbVw=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Info.plist</key>
 		<data>
@@ -153,15 +153,15 @@
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/Tudo On Line WatchKit Extension</key>
 		<data>
-		NyEesSxmw2HhM8YNJ1ffX8eMLG0=
+		jquHwsUSbqm11pHjuOL9aCD11ac=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		OavFKxDBzyHLr9VYXPRADmMTxQY=
+		S8uEbe3sdV2VQZsxry7Pk7w7We4=
 		</data>
 		<key>PlugIns/Tudo On Line WatchKit Extension.appex/embedded.mobileprovision</key>
 		<data>
-		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
+		AXfs8+gsp2Cmk/aMDKG1Xsq8FRk=
 		</data>
 		<key>_WatchKitStub/WK</key>
 		<data>
@@ -169,7 +169,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		T9ue5Qmdcq5iOWbrzG9BpPowjWA=
+		AXfs8+gsp2Cmk/aMDKG1Xsq8FRk=
 		</data>
 	</dict>
 	<key>rules</key>

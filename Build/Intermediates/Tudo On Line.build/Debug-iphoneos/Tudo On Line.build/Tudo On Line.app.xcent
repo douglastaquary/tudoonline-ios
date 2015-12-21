@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>Z46LY5F22G.douglasalexandre.ios.development.Tudo-On-Line</string>
+	<string>6V95FQX348.douglasalexandre.ios.development.Tudo-On-Line</string>
 	<key>com.apple.developer.team-identifier</key>
-	<string>Z46LY5F22G</string>
+	<string>6V95FQX348</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>Z46LY5F22G.douglasalexandre.ios.development.Tudo-On-Line</string>
+		<string>6V95FQX348.douglasalexandre.ios.development.Tudo-On-Line</string>
 	</array>
 </dict>
 </plist>
